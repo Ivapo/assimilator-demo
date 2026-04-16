@@ -1,0 +1,24 @@
+metadata:
+  name: "T-Junction Priority"
+
+vehicle_classes:
+  - id: car
+    length: 4.5
+    min_gap: 2
+    max_speed: 36.11
+    max_acceleration: 3
+    max_deceleration: -6
+    car_following_model: idm
+    lane_changing_model: mobil
+    reaction_time: 1.0
+
+simulation:
+  duration: 300
+  timestep: 0.1
+  warm_up: 30
+  random_seed: 42
+
+scenarios:
+  baseline:
+    network: network.yaml
+    demand: demand.yaml

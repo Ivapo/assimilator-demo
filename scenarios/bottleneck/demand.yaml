@@ -1,0 +1,12 @@
+flows:
+  - od: { origin: N1, destination: N2 }
+    rate: 2000
+    class: car
+    window: { start: 0, end: 600 }
+    distribution: poisson
+    route_choice: shortest
+
+stochastic:
+  speed_variation: 0
+  headway_variation: 0
+  reaction_time_variation: 0

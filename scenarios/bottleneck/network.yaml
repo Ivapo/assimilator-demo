@@ -1,0 +1,105 @@
+metadata:
+  name: Editor Network
+  coordinate_system: metric
+  z_enabled: false
+nodes:
+  - id: N1
+    x: 0
+    'y': 0
+    type: endpoint
+  - id: N_drop
+    x: 2000
+    'y': -0.0
+    type: junction
+  - id: N2
+    x: 5000
+    'y': 0
+    type: endpoint
+links:
+  - id: L1
+    from_node: N1
+    to_node: N_drop
+    geometry:
+      - - 0
+        - 0
+      - - 2000
+        - -0.0
+    lanes:
+      - id: 0
+        width: 3.5
+        speed_limit: 33.33
+        allowed_classes: []
+      - id: 1
+        width: 3.5
+        speed_limit: 33.33
+        allowed_classes: []
+      - id: 2
+        width: 3.5
+        speed_limit: 33.33
+        allowed_classes: []
+  - id: L2
+    from_node: N_drop
+    to_node: N2
+    geometry:
+      - - 2000
+        - -0.0
+      - - 5000
+        - 0
+    lanes:
+      - id: 0
+        width: 3.5
+        speed_limit: 33.33
+        allowed_classes: []
+      - id: 1
+        width: 3.5
+        speed_limit: 33.33
+        allowed_classes: []
+junctions:
+  - node_id: N_drop
+    control: unsignalized
+    rule: priority
+    movements:
+      - id: M_L1_L2
+        from_link: L1
+        to_link: L2
+        from_lanes:
+          - 0
+          - 1
+          - 2
+        to_lanes:
+          - 0
+          - 1
+        type: through
+        lane_mapping:
+          - from: 0
+            to: 0
+          - from: 1
+            to: 1
+          - from: 1
+            to: 0
+          - from: 2
+            to: 1
+        priority: major
+    conflict_pairs: []
+    geometry:
+      setback: 2
+    gap_acceptance:
+      critical_gap: 4.5
+      follow_up_time: 2.5
+
+detectors:
+  - id: D_before
+    link_id: L1
+    position: 1500
+    lanes: [0, 1, 2]
+    aggregation_interval: 30
+  - id: D_after
+    link_id: L2
+    position: 500
+    lanes: [0, 1]
+    aggregation_interval: 30
+  - id: D_downstream
+    link_id: L2
+    position: 1500
+    lanes: [0, 1]
+    aggregation_interval: 30

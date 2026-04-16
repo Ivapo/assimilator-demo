@@ -1,0 +1,148 @@
+metadata:
+  name: Editor Demand
+  time_unit: seconds
+vehicle_classes:
+  - id: car
+    length: 4
+    min_gap: 2
+    max_speed: 16.666666666666668
+    max_acceleration: 3
+    max_deceleration: -6
+    comfortable_deceleration: 2
+    car_following_model: idm
+    lane_changing_model: lmrs
+    reaction_time: 0
+    perception:
+      max_range: 400
+    model_params:
+      idm:
+        desired_speed: 20
+        time_headway: 1
+      lmrs:
+        a_min_coop: -1.7
+        d_coop: 0.7
+        d_free: 0.3
+        d_sync: 0.5
+        tau_relax: 10
+        theta: 3
+      mobil:
+        a_bias: 0.7
+  - id: bus
+    length: 12
+    min_gap: 2
+    max_speed: 16.666666666666668
+    max_acceleration: 3
+    max_deceleration: -6
+    comfortable_deceleration: 2
+    car_following_model: idm
+    lane_changing_model: lmrs
+    reaction_time: 0
+flows:
+  - od:
+      origin: N1
+      destination: N2
+    rate: 250
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N1
+      destination: N3
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N1
+      destination: N4
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N2
+      destination: N1
+    rate: 250
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N2
+      destination: N3
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N2
+      destination: N4
+    rate: 250
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N3
+      destination: N1
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N3
+      destination: N2
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N3
+      destination: N4
+    rate: 250
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N4
+      destination: N1
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N4
+      destination: N2
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic
+  - od:
+      origin: N4
+      destination: N3
+    rate: 150
+    class: car
+    window:
+      start: 0
+      end: 250
+    distribution: deterministic

@@ -1,0 +1,78 @@
+metadata:
+  name: cross-4
+  description: null
+  author: null
+  map_origin: null
+  coordinate_system: metric
+  mode: micro
+  objective: null
+  constraints: []
+  kpis: []
+vehicle_classes:
+- id: car
+  length: 4.0
+  min_gap: 2.0
+  max_speed: 16.666666666666668
+  max_acceleration: 3.0
+  max_deceleration: -6.0
+  car_following_model: idm
+  lane_changing_model: lmrs
+  reaction_time: 0.0
+  model_params:
+    lmrs:
+      a_min_coop: -1.7
+      d_free: 0.3
+      d_sync: 0.5
+      tau_relax: 10.0
+      theta: 3.0
+      d_coop: 0.7
+    idm:
+      desired_speed: 20.0
+      time_headway: 1.0
+    mobil:
+      a_bias: 0.7
+  perception:
+    gap_noise: 0.0
+    speed_noise: 0.0
+    max_range: 400.0
+  crossing_speed: null
+  yields_to_crossings: true
+  comfortable_deceleration: 2.0
+  is_public_transit: false
+- id: bus
+  length: 12.0
+  min_gap: 2.0
+  max_speed: 16.666666666666668
+  max_acceleration: 3.0
+  max_deceleration: -6.0
+  car_following_model: idm
+  lane_changing_model: lmrs
+  reaction_time: 0.0
+  model_params: {}
+  perception: null
+  crossing_speed: null
+  yields_to_crossings: true
+  comfortable_deceleration: 2.0
+  is_public_transit: false
+vehicle_mixes: {}
+time_windows: {}
+routes: {}
+pt_routes: []
+simulation:
+  duration: 120.0
+  timestep: 0.1
+  warm_up: 0.0
+  random_seed: 42
+signal_plans: {}
+scenarios:
+  baseline:
+    description: null
+    network: network.yaml
+    demand: demand.yaml
+    network_override: null
+    demand_override: null
+    overrides: null
+    apply: null
+    simulation: null
+    mix: null
+    sweep: null
