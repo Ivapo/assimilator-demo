@@ -9,7 +9,7 @@ vehicle_classes:
     max_acceleration: 3
     max_deceleration: -6
     car_following_model: idm
-    lane_changing_model: mobil
+    lane_changing_model: lmrs
     reaction_time: 0
 
 simulation:
