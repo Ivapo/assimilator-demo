@@ -25,8 +25,6 @@ vehicle_classes:
         d_sync: 0.5
         tau_relax: 10
         theta: 3
-      mobil:
-        a_bias: 0.7
   - id: bus
     length: 12
     min_gap: 2

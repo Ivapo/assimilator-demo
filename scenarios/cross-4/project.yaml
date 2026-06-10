@@ -29,8 +29,6 @@ vehicle_classes:
     idm:
       desired_speed: 20.0
       time_headway: 1.0
-    mobil:
-      a_bias: 0.7
   perception:
     gap_noise: 0.0
     speed_noise: 0.0
