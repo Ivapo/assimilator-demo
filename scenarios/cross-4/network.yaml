@@ -4,24 +4,19 @@ metadata:
   z_enabled: false
 nodes:
   - id: N1
-    x: 0
-    'y': 0
+    point: [0, 0]
     type: endpoint
   - id: N2
-    x: 200
-    'y': 0
+    point: [200, 0]
     type: endpoint
   - id: N3
-    x: 100
-    'y': -100
+    point: [100, -100]
     type: endpoint
   - id: N4
-    x: 100
-    'y': 100
+    point: [100, 100]
     type: endpoint
   - id: N5
-    x: 100
-    'y': 0
+    point: [100, 0]
     type: junction
 links:
   - id: L1
