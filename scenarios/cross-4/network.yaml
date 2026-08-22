@@ -1,3 +1,4 @@
+schema_version: 1
 metadata:
   name: Editor Network
   coordinate_system: metric
@@ -16,7 +17,7 @@ nodes:
     point: [100, 100]
     type: endpoint
   - id: N5
-    point: [100, 0]
+    point: [100, -0.0]
     type: junction
 links:
   - id: L1
@@ -26,7 +27,7 @@ links:
       - - 0
         - 0
       - - 100
-        - 0
+        - -0.0
     lanes:
       - id: 0
         width: 3.5
@@ -42,7 +43,7 @@ links:
     to_node: N1
     geometry:
       - - 100
-        - 0
+        - -0.0
       - - 0
         - 0
     lanes:
@@ -60,7 +61,7 @@ links:
     to_node: N2
     geometry:
       - - 100
-        - 0
+        - -0.0
       - - 200
         - 0
     lanes:
@@ -80,7 +81,7 @@ links:
       - - 200
         - 0
       - - 100
-        - 0
+        - -0.0
     lanes:
       - id: 0
         width: 3.5
@@ -98,7 +99,7 @@ links:
       - - 100
         - -100
       - - 100
-        - 0
+        - -0.0
     lanes:
       - id: 0
         width: 3.5
@@ -114,7 +115,7 @@ links:
     to_node: N3
     geometry:
       - - 100
-        - 0
+        - -0.0
       - - 100
         - -100
     lanes:
@@ -132,7 +133,7 @@ links:
     to_node: N4
     geometry:
       - - 100
-        - 0
+        - -0.0
       - - 100
         - 100
     lanes:
@@ -152,7 +153,7 @@ links:
       - - 100
         - 100
       - - 100
-        - 0
+        - -0.0
     lanes:
       - id: 0
         width: 3.5
@@ -184,10 +185,10 @@ junctions:
           - 1
         type: through
         lane_mapping:
-          - from: 1
-            to: 1
           - from: 0
             to: 0
+          - from: 1
+            to: 1
       - id: M_L1_L6
         from_link: L1
         to_link: L6

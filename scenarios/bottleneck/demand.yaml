@@ -1,3 +1,4 @@
+schema_version: 1
 flows:
   - od: { origin: N1, destination: N2 }
     rate: 2000
