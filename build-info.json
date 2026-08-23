@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "c2200f4",
+      "subject": "chore(rules,specs): reconcile after the provenance card — asm-042 Phase 7",
+      "date": "2026-08-22T21:32:39-05:00"
+    },
+    {
+      "sha": "c5d57d7",
+      "subject": "feat(demo): the landing page shows when the demo was last updated",
+      "date": "2026-08-22T17:58:42-05:00"
+    },
+    {
+      "sha": "aec33a3",
+      "subject": "fix(demo): the landing page scrolls from anywhere, not just the centre column",
+      "date": "2026-08-22T17:51:36-05:00"
+    }
+  ]
+}
