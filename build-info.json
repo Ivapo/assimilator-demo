@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "sha": "0508966",
+      "subject": "fix(demo): the provenance card refreshes in dev, not just at build time",
+      "date": "2026-08-22T22:29:42-05:00"
+    },
+    {
       "sha": "6252695",
       "subject": "fix(web): overlapping fills union instead of cancelling — waypoints lose their gap",
       "date": "2026-08-22T22:18:03-05:00"
@@ -9,11 +14,6 @@
       "sha": "c2200f4",
       "subject": "chore(rules,specs): reconcile after the provenance card — asm-042 Phase 7",
       "date": "2026-08-22T21:32:39-05:00"
-    },
-    {
-      "sha": "c5d57d7",
-      "subject": "feat(demo): the landing page shows when the demo was last updated",
-      "date": "2026-08-22T17:58:42-05:00"
     }
   ]
 }
