@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "0508966",
-      "subject": "fix(demo): the provenance card refreshes in dev, not just at build time",
-      "date": "2026-08-22T22:29:42-05:00"
+      "sha": "e91101e",
+      "subject": "fix(ci): name the wasm target's features for wasm-opt — `strip` took them",
+      "date": "2026-09-07T13:24:26-05:00"
     },
     {
-      "sha": "6252695",
-      "subject": "fix(web): overlapping fills union instead of cancelling — waypoints lose their gap",
-      "date": "2026-08-22T22:18:03-05:00"
+      "sha": "1c0349d",
+      "subject": "fix(tests): §26 Phase 18 — the Phase 17 rig switches the stop-line hold off",
+      "date": "2026-09-07T10:49:20-05:00"
     },
     {
-      "sha": "c2200f4",
-      "subject": "chore(rules,specs): reconcile after the provenance card — asm-042 Phase 7",
-      "date": "2026-08-22T21:32:39-05:00"
+      "sha": "51be59a",
+      "subject": "docs(lmrs): §26 Phase 18 close-out — rules, manual, inventory, shipped",
+      "date": "2026-09-07T10:44:35-05:00"
     }
   ]
 }
