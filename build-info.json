@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "0cce7c1",
-      "subject": "fix(tests): asm-021 Phase 6 — CfSnapshot test literals gain maneuver_leader; row tuple types aliased for clippy",
-      "date": "2026-09-12T07:35:34-05:00"
+      "sha": "ba37f60",
+      "subject": "fix(web): inspector shows \"< -100\" for the acceptance's own-braking value at a clamped gap",
+      "date": "2026-09-12T12:25:18-05:00"
     },
     {
-      "sha": "f39ae66",
-      "subject": "docs(lmrs, lane-change-maneuver): §27 Phase 19 and §12 Phase 6 close-out — T34, rules, manual, inventory, shipped",
-      "date": "2026-09-12T07:29:33-05:00"
+      "sha": "479ace9",
+      "subject": "docs(manual): Engine Constants page, generated from the sources and byte-checked (constants_table_in_sync)",
+      "date": "2026-09-12T12:23:49-05:00"
     },
     {
-      "sha": "8504c2f",
-      "subject": "docs(lmrs-validation): T34 — leader-side acceptance and both-lane following, per tree; the side-swipe class gone",
-      "date": "2026-09-12T07:29:33-05:00"
+      "sha": "7047fa8",
+      "subject": "docs(lmrs-validation): T10c/T18b re-keyed, T18c and T20f added, §27.9 OQ-5 closed by measurement",
+      "date": "2026-09-12T11:57:39-05:00"
     }
   ]
 }
