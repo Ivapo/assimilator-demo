@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "55a4602",
-      "subject": "docs(editor): asm-025 Phase 5 close-out — shipped 2026-09-12; rules, manual, inventory, status",
-      "date": "2026-09-12T17:40:21-05:00"
+      "sha": "39a6c05",
+      "subject": "docs(editor): asm-015 Phase 3 close-out — shipped 2026-09-12; rules, manual, inventory, status",
+      "date": "2026-09-12T18:28:53-05:00"
     },
     {
-      "sha": "135bea2",
-      "subject": "fix(web): pass-through flows are pruned of the served nulls like the sections (asm-025 Phase 5)",
-      "date": "2026-09-12T17:32:50-05:00"
+      "sha": "3db4f20",
+      "subject": "fix(web): junction arms survive every structural edit — normaliser, merge/split renames, node-merge transplant (asm-015 Phase 3)",
+      "date": "2026-09-12T18:27:10-05:00"
     },
     {
-      "sha": "46bc133",
-      "subject": "test(server): baseline and override saves keep an od_matrix (asm-025 Phase 5)",
-      "date": "2026-09-12T17:28:48-05:00"
+      "sha": "a8fff42",
+      "subject": "docs(specs): asm-015 §10 Phase 3 — arms survive every structural edit, drafted and reviewed (two rounds, converged)",
+      "date": "2026-09-12T18:16:19-05:00"
     }
   ]
 }
