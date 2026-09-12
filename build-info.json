@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "7ff65bf",
-      "subject": "docs(lane-change-maneuver): §11 Phase 5 close-out — T33, rules, manual, inventory, shipped",
-      "date": "2026-09-11T21:05:07-05:00"
+      "sha": "0cce7c1",
+      "subject": "fix(tests): asm-021 Phase 6 — CfSnapshot test literals gain maneuver_leader; row tuple types aliased for clippy",
+      "date": "2026-09-12T07:35:34-05:00"
     },
     {
-      "sha": "2f266af",
-      "subject": "docs(lmrs-validation): T33 — standstill completion measured; lc_standstill_duration / lc_standstill_speed",
-      "date": "2026-09-11T21:05:07-05:00"
+      "sha": "f39ae66",
+      "subject": "docs(lmrs, lane-change-maneuver): §27 Phase 19 and §12 Phase 6 close-out — T34, rules, manual, inventory, shipped",
+      "date": "2026-09-12T07:29:33-05:00"
     },
     {
-      "sha": "90b49e1",
-      "subject": "fix(core): the 0.5-flip safety check skips bodies in junction transit",
-      "date": "2026-09-11T21:05:06-05:00"
+      "sha": "8504c2f",
+      "subject": "docs(lmrs-validation): T34 — leader-side acceptance and both-lane following, per tree; the side-swipe class gone",
+      "date": "2026-09-12T07:29:33-05:00"
     }
   ]
 }
