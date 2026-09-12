@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "ba37f60",
-      "subject": "fix(web): inspector shows \"< -100\" for the acceptance's own-braking value at a clamped gap",
-      "date": "2026-09-12T12:25:18-05:00"
+      "sha": "8156652",
+      "subject": "docs(lmrs): §28 Phase 20 close-out — shipped 2026-09-12; rules, manual, inventory, status, T35 notes",
+      "date": "2026-09-12T14:22:06-05:00"
     },
     {
-      "sha": "479ace9",
-      "subject": "docs(manual): Engine Constants page, generated from the sources and byte-checked (constants_table_in_sync)",
-      "date": "2026-09-12T12:23:49-05:00"
+      "sha": "3d4af6d",
+      "subject": "docs(lmrs-validation): T35 — the follower side at the follower's own speed, per tree",
+      "date": "2026-09-12T14:08:36-05:00"
     },
     {
-      "sha": "7047fa8",
-      "subject": "docs(lmrs-validation): T10c/T18b re-keyed, T18c and T20f added, §27.9 OQ-5 closed by measurement",
-      "date": "2026-09-12T11:57:39-05:00"
+      "sha": "e429007",
+      "subject": "feat(core,web): §28 Phase 20 — follower_accept_accel end to end, dump columns, integration test",
+      "date": "2026-09-12T13:49:41-05:00"
     }
   ]
 }
