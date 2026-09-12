@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "8156652",
-      "subject": "docs(lmrs): §28 Phase 20 close-out — shipped 2026-09-12; rules, manual, inventory, status, T35 notes",
-      "date": "2026-09-12T14:22:06-05:00"
+      "sha": "55a4602",
+      "subject": "docs(editor): asm-025 Phase 5 close-out — shipped 2026-09-12; rules, manual, inventory, status",
+      "date": "2026-09-12T17:40:21-05:00"
     },
     {
-      "sha": "3d4af6d",
-      "subject": "docs(lmrs-validation): T35 — the follower side at the follower's own speed, per tree",
-      "date": "2026-09-12T14:08:36-05:00"
+      "sha": "135bea2",
+      "subject": "fix(web): pass-through flows are pruned of the served nulls like the sections (asm-025 Phase 5)",
+      "date": "2026-09-12T17:32:50-05:00"
     },
     {
-      "sha": "e429007",
-      "subject": "feat(core,web): §28 Phase 20 — follower_accept_accel end to end, dump columns, integration test",
-      "date": "2026-09-12T13:49:41-05:00"
+      "sha": "46bc133",
+      "subject": "test(server): baseline and override saves keep an od_matrix (asm-025 Phase 5)",
+      "date": "2026-09-12T17:28:48-05:00"
     }
   ]
 }
