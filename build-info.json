@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "39a6c05",
-      "subject": "docs(editor): asm-015 Phase 3 close-out — shipped 2026-09-12; rules, manual, inventory, status",
-      "date": "2026-09-12T18:28:53-05:00"
+      "sha": "fe939ca",
+      "subject": "docs(network-validation): asm-043 Phase 1 close-out — shipped 2026-09-12; rule seeded, manual, inventory, status, T37 note",
+      "date": "2026-09-12T23:44:29-05:00"
     },
     {
-      "sha": "3db4f20",
-      "subject": "fix(web): junction arms survive every structural edit — normaliser, merge/split renames, node-merge transplant (asm-015 Phase 3)",
-      "date": "2026-09-12T18:27:10-05:00"
+      "sha": "eb22762",
+      "subject": "feat(network,import,web,configs): asm-043 Phase 1 — many-to-one lane mappings warn at load; generators pair only matched lanes; on-ramp, bottleneck, urban_grid and the OSM tour re-authored as lane drops",
+      "date": "2026-09-12T23:44:14-05:00"
     },
     {
-      "sha": "a8fff42",
-      "subject": "docs(specs): asm-015 §10 Phase 3 — arms survive every structural edit, drafted and reviewed (two rounds, converged)",
-      "date": "2026-09-12T18:16:19-05:00"
+      "sha": "2824520",
+      "subject": "docs(specs): asm-043 network validation — many-to-one lane mappings warn; drafted and reviewed (three rounds, converged)",
+      "date": "2026-09-12T23:20:38-05:00"
     }
   ]
 }

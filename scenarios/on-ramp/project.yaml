@@ -18,7 +18,10 @@ vehicle_classes:
   max_deceleration: -6.0
   car_following_model: idm
   lane_changing_model: lmrs
-  reaction_time: 1.0
+  # 0 until the lane-change pipeline accounts for a perception delay when it
+  # accepts a gap (lmrs_spec §28.9 OQ-3, §27.9 OQ-5): at 1.0 the merge
+  # section produced 95 contacts on this demand (LMRS-T37); asm-043 OQ-4.
+  reaction_time: 0.0
   model_params:
     idm:
       desired_speed: 100.0

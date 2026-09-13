@@ -57,13 +57,15 @@ junctions:
     control: unsignalized
     rule: priority
     movements:
+      # Lane 2 of L1 ends at N_drop: it is neither listed nor mapped, so the
+      # drop is a lane change on L1 with gap acceptance, not a fold into
+      # lane 1 inside the junction (asm-043).
       - id: M_L1_L2
         from_link: L1
         to_link: L2
         from_lanes:
           - 0
           - 1
-          - 2
         to_lanes:
           - 0
           - 1
@@ -72,10 +74,6 @@ junctions:
           - from: 0
             to: 0
           - from: 1
-            to: 1
-          - from: 1
-            to: 0
-          - from: 2
             to: 1
         priority: major
     conflict_pairs: []

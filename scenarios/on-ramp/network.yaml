@@ -350,13 +350,15 @@ junctions:
   - node_id: N4
     control: unsignalized
     movements:
+      # Lane 2 of L5 (the ramp lane) ends at N4: it is neither listed nor
+      # mapped, so a ramp vehicle merges on L5 with gap acceptance instead of
+      # being folded into lane 1 inside the junction (asm-043, LMRS-T37).
       - id: M_L5_L6
         from_link: L5
         to_link: L6
         from_lanes:
           - 0
           - 1
-          - 2
         to_lanes:
           - 0
           - 1
@@ -365,8 +367,6 @@ junctions:
           - from: 0
             to: 0
           - from: 1
-            to: 1
-          - from: 2
             to: 1
     conflict_pairs: []
     geometry:
