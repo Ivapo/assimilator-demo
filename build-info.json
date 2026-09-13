@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "fe939ca",
-      "subject": "docs(network-validation): asm-043 Phase 1 close-out — shipped 2026-09-12; rule seeded, manual, inventory, status, T37 note",
-      "date": "2026-09-12T23:44:29-05:00"
+      "sha": "c55df7b",
+      "subject": "docs(lmrs): §29 Phase 21 close-out — shipped 2026-09-13; §28.9 OQ-3 closed; rules, manual, inventory, status",
+      "date": "2026-09-13T07:18:35-05:00"
     },
     {
-      "sha": "eb22762",
-      "subject": "feat(network,import,web,configs): asm-043 Phase 1 — many-to-one lane mappings warn at load; generators pair only matched lanes; on-ramp, bottleneck, urban_grid and the OSM tour re-authored as lane drops",
-      "date": "2026-09-12T23:44:14-05:00"
+      "sha": "edf4838",
+      "subject": "docs(lmrs-validation): T38 — an arriving vehicle is the adjacent lane's leader, per tree",
+      "date": "2026-09-13T07:18:35-05:00"
     },
     {
-      "sha": "2824520",
-      "subject": "docs(specs): asm-043 network validation — many-to-one lane mappings warn; drafted and reviewed (three rounds, converged)",
-      "date": "2026-09-12T23:20:38-05:00"
+      "sha": "a239743",
+      "subject": "feat(core): §29 Phase 21 — the in-LC filter nulls leavers only; an arriving vehicle is the adjacent lane's leader or follower",
+      "date": "2026-09-13T07:18:34-05:00"
     }
   ]
 }
