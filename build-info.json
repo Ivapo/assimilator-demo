@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "c55df7b",
-      "subject": "docs(lmrs): §29 Phase 21 close-out — shipped 2026-09-13; §28.9 OQ-3 closed; rules, manual, inventory, status",
-      "date": "2026-09-13T07:18:35-05:00"
+      "sha": "847eded",
+      "subject": "docs(asm-021): §13 Phase 7 close-out — shipped 2026-09-19; §27.9 OQ-5 closed; rules, manual, inventory, status",
+      "date": "2026-09-19T14:08:05-05:00"
     },
     {
-      "sha": "edf4838",
-      "subject": "docs(lmrs-validation): T38 — an arriving vehicle is the adjacent lane's leader, per tree",
-      "date": "2026-09-13T07:18:35-05:00"
+      "sha": "4b45e21",
+      "subject": "docs(lmrs-validation): T39 — the acceptance re-run after the commit, per tree",
+      "date": "2026-09-19T14:08:05-05:00"
     },
     {
-      "sha": "a239743",
-      "subject": "feat(core): §29 Phase 21 — the in-LC filter nulls leavers only; an arriving vehicle is the adjacent lane's leader or follower",
-      "date": "2026-09-13T07:18:34-05:00"
+      "sha": "4b08aff",
+      "subject": "feat(server,web): asm-021 Phase 7 — last_check on the WebSocket, the inspector and the dump",
+      "date": "2026-09-19T14:08:04-05:00"
     }
   ]
 }
