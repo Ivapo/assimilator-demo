@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "847eded",
-      "subject": "docs(asm-021): §13 Phase 7 close-out — shipped 2026-09-19; §27.9 OQ-5 closed; rules, manual, inventory, status",
-      "date": "2026-09-19T14:08:05-05:00"
+      "sha": "f25e285",
+      "subject": "docs(lmrs): §31 Phase 23 and §30 Phase 22 close-out — shipped, rules, manual, inventory, status, index",
+      "date": "2026-09-19T18:50:41-05:00"
     },
     {
-      "sha": "4b45e21",
-      "subject": "docs(lmrs-validation): T39 — the acceptance re-run after the commit, per tree",
-      "date": "2026-09-19T14:08:05-05:00"
+      "sha": "4f5f7cb",
+      "subject": "docs(lmrs-validation): T42 — the follower side on the physical gap; Phase 22 re-measured on it and shipped",
+      "date": "2026-09-19T18:50:15-05:00"
     },
     {
-      "sha": "4b08aff",
-      "subject": "feat(server,web): asm-021 Phase 7 — last_check on the WebSocket, the inspector and the dump",
-      "date": "2026-09-19T14:08:04-05:00"
+      "sha": "cdbabb0",
+      "subject": "merge: lmrs §30 Phase 22 — courtesy with the braking-need factor, shipped on §31 Phase 23 (T42)",
+      "date": "2026-09-19T18:43:35-05:00"
     }
   ]
 }
