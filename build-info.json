@@ -1,19 +1,19 @@
 {
   "commits": [
     {
+      "sha": "ebf6891",
+      "subject": "docs: lmrs §35 Phase 27 arm 2 measured and cut — §35.14, rules, constants doc, inventory, status",
+      "date": "2026-09-20T15:21:01-05:00"
+    },
+    {
+      "sha": "1bfc363",
+      "subject": "docs(lmrs-validation): T46 arm 2 — the merger's relaxation under the gate, measured and cut",
+      "date": "2026-09-20T15:21:01-05:00"
+    },
+    {
       "sha": "0a6587f",
       "subject": "docs: lmrs §33 Phase 25 arm 1 and §35 Phase 27 shipped — rules, manual, spec, inventory, status",
       "date": "2026-09-20T13:55:22-05:00"
-    },
-    {
-      "sha": "d92d7e6",
-      "subject": "docs(lmrs-validation): T46 — lmrs §35 Phase 27 arm 1 measured and shipped",
-      "date": "2026-09-20T13:55:22-05:00"
-    },
-    {
-      "sha": "9c0cae4",
-      "subject": "merge: lmrs §35 Phase 27 arm 1 (carrying §33 Phase 25 arm 1) onto main",
-      "date": "2026-09-20T13:48:01-05:00"
     }
   ]
 }
