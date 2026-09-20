@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "f25e285",
-      "subject": "docs(lmrs): §31 Phase 23 and §30 Phase 22 close-out — shipped, rules, manual, inventory, status, index",
-      "date": "2026-09-19T18:50:41-05:00"
+      "sha": "0a6587f",
+      "subject": "docs: lmrs §33 Phase 25 arm 1 and §35 Phase 27 shipped — rules, manual, spec, inventory, status",
+      "date": "2026-09-20T13:55:22-05:00"
     },
     {
-      "sha": "4f5f7cb",
-      "subject": "docs(lmrs-validation): T42 — the follower side on the physical gap; Phase 22 re-measured on it and shipped",
-      "date": "2026-09-19T18:50:15-05:00"
+      "sha": "d92d7e6",
+      "subject": "docs(lmrs-validation): T46 — lmrs §35 Phase 27 arm 1 measured and shipped",
+      "date": "2026-09-20T13:55:22-05:00"
     },
     {
-      "sha": "cdbabb0",
-      "subject": "merge: lmrs §30 Phase 22 — courtesy with the braking-need factor, shipped on §31 Phase 23 (T42)",
-      "date": "2026-09-19T18:43:35-05:00"
+      "sha": "9c0cae4",
+      "subject": "merge: lmrs §35 Phase 27 arm 1 (carrying §33 Phase 25 arm 1) onto main",
+      "date": "2026-09-20T13:48:01-05:00"
     }
   ]
 }
