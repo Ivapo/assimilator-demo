@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "ebf6891",
-      "subject": "docs: lmrs §35 Phase 27 arm 2 measured and cut — §35.14, rules, constants doc, inventory, status",
-      "date": "2026-09-20T15:21:01-05:00"
+      "sha": "7bb4fcb",
+      "subject": "docs: asm-001 Phase 1 shipped — rules, manual, dev book, CLAUDE.md, inventory, status, review record",
+      "date": "2026-09-22T14:45:01-05:00"
     },
     {
-      "sha": "1bfc363",
-      "subject": "docs(lmrs-validation): T46 arm 2 — the merger's relaxation under the gate, measured and cut",
-      "date": "2026-09-20T15:21:01-05:00"
+      "sha": "f22e165",
+      "subject": "feat(mcp): get_scenario + create_scenario, run_scenario provenance — tool surface 0.2.0 (asm-001 Phase 1)",
+      "date": "2026-09-22T14:31:12-05:00"
     },
     {
-      "sha": "0a6587f",
-      "subject": "docs: lmrs §33 Phase 25 arm 1 and §35 Phase 27 shipped — rules, manual, spec, inventory, status",
-      "date": "2026-09-20T13:55:22-05:00"
+      "sha": "c6c83b4",
+      "subject": "feat(project): crates/project — project writer, git commit, create_scenario (asm-001 Phase 1)",
+      "date": "2026-09-22T14:26:51-05:00"
     }
   ]
 }
