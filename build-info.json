@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "7bb4fcb",
-      "subject": "docs: asm-001 Phase 1 shipped — rules, manual, dev book, CLAUDE.md, inventory, status, review record",
-      "date": "2026-09-22T14:45:01-05:00"
+      "sha": "5945260",
+      "subject": "docs: asm-029 Phase 8 shipped — rules, manual, dev book, validation index, inventory, status, lmrs OQ-5 / T37 F3 notes",
+      "date": "2026-09-22T23:10:18-05:00"
     },
     {
-      "sha": "f22e165",
-      "subject": "feat(mcp): get_scenario + create_scenario, run_scenario provenance — tool surface 0.2.0 (asm-001 Phase 1)",
-      "date": "2026-09-22T14:31:12-05:00"
+      "sha": "5a66dc8",
+      "subject": "docs(perception-validation): PERC-T13 — the Leader channel anticipated over its observation's age",
+      "date": "2026-09-22T23:02:58-05:00"
     },
     {
-      "sha": "c6c83b4",
-      "subject": "feat(project): crates/project — project writer, git commit, create_scenario (asm-001 Phase 1)",
-      "date": "2026-09-22T14:26:51-05:00"
+      "sha": "f9a15db",
+      "subject": "test: perception Phase 8 — the public-transport tour's holding claim, pooled over seeds",
+      "date": "2026-09-22T23:01:14-05:00"
     }
   ]
 }
