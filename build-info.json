@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "06027bb",
-      "subject": "docs: asm-029 Phase 9 arm 1 — rules, manual, spec exit record, inventory, status",
-      "date": "2026-09-24T01:09:14-05:00"
+      "sha": "bf02a40",
+      "subject": "docs: asm-029 Phase 9 arm 2 — PERC-T15 arm 2, rules, manual, spec exit record; Phase 9 shipped",
+      "date": "2026-09-24T12:51:17-05:00"
     },
     {
-      "sha": "1c035eb",
-      "subject": "docs(perception-validation): PERC-T15 arm 1 — the transit channels anticipate; the pile-up is gone",
-      "date": "2026-09-24T01:08:18-05:00"
+      "sha": "d46b18f",
+      "subject": "docs(perception-validation): PERC-T15 arm 2 — pre-registration",
+      "date": "2026-09-24T12:06:37-05:00"
     },
     {
-      "sha": "643e7a1",
-      "subject": "feat(core): perception Phase 9 — the transit leader channels through the shared leaf",
-      "date": "2026-09-24T00:27:15-05:00"
+      "sha": "5db28ce",
+      "subject": "feat(web): the third anticipation option",
+      "date": "2026-09-24T12:06:37-05:00"
     }
   ]
 }
