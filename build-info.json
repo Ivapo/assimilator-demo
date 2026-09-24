@@ -1,6 +1,11 @@
 {
   "commits": [
     {
+      "sha": "d8846a6",
+      "subject": "test: read fixtures from the tracked configs/bundled-examples, not the gitignored scratch dir",
+      "date": "2026-09-24T14:19:10-05:00"
+    },
+    {
       "sha": "bf02a40",
       "subject": "docs: asm-029 Phase 9 arm 2 — PERC-T15 arm 2, rules, manual, spec exit record; Phase 9 shipped",
       "date": "2026-09-24T12:51:17-05:00"
@@ -8,11 +13,6 @@
     {
       "sha": "d46b18f",
       "subject": "docs(perception-validation): PERC-T15 arm 2 — pre-registration",
-      "date": "2026-09-24T12:06:37-05:00"
-    },
-    {
-      "sha": "5db28ce",
-      "subject": "feat(web): the third anticipation option",
       "date": "2026-09-24T12:06:37-05:00"
     }
   ]
