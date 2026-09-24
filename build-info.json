@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "5945260",
-      "subject": "docs: asm-029 Phase 8 shipped — rules, manual, dev book, validation index, inventory, status, lmrs OQ-5 / T37 F3 notes",
-      "date": "2026-09-22T23:10:18-05:00"
+      "sha": "06027bb",
+      "subject": "docs: asm-029 Phase 9 arm 1 — rules, manual, spec exit record, inventory, status",
+      "date": "2026-09-24T01:09:14-05:00"
     },
     {
-      "sha": "5a66dc8",
-      "subject": "docs(perception-validation): PERC-T13 — the Leader channel anticipated over its observation's age",
-      "date": "2026-09-22T23:02:58-05:00"
+      "sha": "1c035eb",
+      "subject": "docs(perception-validation): PERC-T15 arm 1 — the transit channels anticipate; the pile-up is gone",
+      "date": "2026-09-24T01:08:18-05:00"
     },
     {
-      "sha": "f9a15db",
-      "subject": "test: perception Phase 8 — the public-transport tour's holding claim, pooled over seeds",
-      "date": "2026-09-22T23:01:14-05:00"
+      "sha": "643e7a1",
+      "subject": "feat(core): perception Phase 9 — the transit leader channels through the shared leaf",
+      "date": "2026-09-24T00:27:15-05:00"
     }
   ]
 }
