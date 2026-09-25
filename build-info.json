@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "d8846a6",
-      "subject": "test: read fixtures from the tracked configs/bundled-examples, not the gitignored scratch dir",
-      "date": "2026-09-24T14:19:10-05:00"
+      "sha": "383ffeb",
+      "subject": "Merge branch 'main' into meso-network-projection",
+      "date": "2026-09-24T19:04:27-05:00"
     },
     {
-      "sha": "bf02a40",
-      "subject": "docs: asm-029 Phase 9 arm 2 — PERC-T15 arm 2, rules, manual, spec exit record; Phase 9 shipped",
-      "date": "2026-09-24T12:51:17-05:00"
+      "sha": "4eda61a",
+      "subject": "docs(perception-validation): PERC-T16 — the departure leader's speed; asm-029 Phase 10 held",
+      "date": "2026-09-24T17:25:39-05:00"
     },
     {
-      "sha": "d46b18f",
-      "subject": "docs(perception-validation): PERC-T15 arm 2 — pre-registration",
-      "date": "2026-09-24T12:06:37-05:00"
+      "sha": "48983f8",
+      "subject": "Revert \"fix(core): perception Phase 10 — the departure leader carries its speed\"",
+      "date": "2026-09-24T17:17:50-05:00"
     }
   ]
 }
