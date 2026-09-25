@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "383ffeb",
-      "subject": "Merge branch 'main' into meso-network-projection",
-      "date": "2026-09-24T19:04:27-05:00"
+      "sha": "addfaa6",
+      "subject": "docs: asm-029 Phases 10 and 11 shipped — close-out",
+      "date": "2026-09-24T20:59:04-05:00"
     },
     {
-      "sha": "4eda61a",
-      "subject": "docs(perception-validation): PERC-T16 — the departure leader's speed; asm-029 Phase 10 held",
-      "date": "2026-09-24T17:25:39-05:00"
+      "sha": "d26b29e",
+      "subject": "docs(perception-validation): PERC-T18 — record",
+      "date": "2026-09-24T20:57:02-05:00"
     },
     {
-      "sha": "48983f8",
-      "subject": "Revert \"fix(core): perception Phase 10 — the departure leader carries its speed\"",
-      "date": "2026-09-24T17:17:50-05:00"
+      "sha": "eaa4db5",
+      "subject": "test(core): drop a clone on a Copy in Phase 10's departure rig",
+      "date": "2026-09-24T20:56:33-05:00"
     }
   ]
 }
