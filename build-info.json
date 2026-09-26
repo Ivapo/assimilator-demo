@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "a38aeae",
-      "subject": "docs: lmrs Phase 24 + §33 arm 2 shipped — rules, manual, close-out",
-      "date": "2026-09-25T23:14:26-05:00"
+      "sha": "2042a7d",
+      "subject": "docs(lmrs-validation): T50 — Phase 2 gate",
+      "date": "2026-09-26T11:50:24-05:00"
     },
     {
-      "sha": "04c745b",
-      "subject": "docs(lmrs-validation): T48 re-key — measured, arm 2 passes",
-      "date": "2026-09-25T23:12:15-05:00"
+      "sha": "3b23dba",
+      "subject": "docs(conflicts-validation): T12 re-key",
+      "date": "2026-09-26T11:50:24-05:00"
     },
     {
-      "sha": "10e1334",
-      "subject": "merge: lmrs §32 Phase 24 + §33 arm 2 (phase-25-arm-2)",
-      "date": "2026-09-25T23:11:36-05:00"
+      "sha": "b43b945",
+      "subject": "fix(junction): the exit-space check counts a departing body where it will be (asm-016 Phase 2)",
+      "date": "2026-09-26T11:50:23-05:00"
     }
   ]
 }
