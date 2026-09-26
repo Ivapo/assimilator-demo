@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "2042a7d",
-      "subject": "docs(lmrs-validation): T50 — Phase 2 gate",
-      "date": "2026-09-26T11:50:24-05:00"
+      "sha": "2ffb533",
+      "subject": "Merge remote-tracking branch 'origin/import-turn-movements'",
+      "date": "2026-09-26T16:32:59-05:00"
     },
     {
-      "sha": "3b23dba",
-      "subject": "docs(conflicts-validation): T12 re-key",
-      "date": "2026-09-26T11:50:24-05:00"
+      "sha": "859ab8f",
+      "subject": "docs(analytics): asm-002 Phase 9 shipped — close-out and reconciliation",
+      "date": "2026-09-26T16:06:02-05:00"
     },
     {
-      "sha": "b43b945",
-      "subject": "fix(junction): the exit-space check counts a departing body where it will be (asm-016 Phase 2)",
-      "date": "2026-09-26T11:50:23-05:00"
+      "sha": "22d0f67",
+      "subject": "feat(analytics,mcp): compare_kpi at a caller-chosen confidence level (asm-002 Phase 9)",
+      "date": "2026-09-26T16:03:36-05:00"
     }
   ]
 }
