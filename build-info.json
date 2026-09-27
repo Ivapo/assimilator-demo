@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "e2e385a",
-      "subject": "Merge origin/frontend-router: asm-045 Phases 4–5 (frontends on the engine's router)",
-      "date": "2026-09-26T22:46:30-05:00"
+      "sha": "64534c2",
+      "subject": "Merge remote-tracking branch 'origin/editor-lane-classes'",
+      "date": "2026-09-27T13:41:27-05:00"
     },
     {
-      "sha": "4036b4b",
-      "subject": "docs(agentic): asm-001 Phase 10 shipped — close-out and reconciliation",
-      "date": "2026-09-26T21:48:31-05:00"
+      "sha": "16cb581",
+      "subject": "docs(demand): record OQ-7 spec decisions — OQ-D1 in Phase 3, OQ-D3 as Phase 4",
+      "date": "2026-09-27T13:41:18-05:00"
     },
     {
-      "sha": "a7fd97e",
-      "subject": "feat(config,core,meso,output,mcp): avg_delay, not_entered and KPI definitions (asm-001 Phase 10)",
-      "date": "2026-09-26T21:48:31-05:00"
+      "sha": "e5c547a",
+      "subject": "docs: asm-025 Phase 7 shipped — close-out and reconciliation",
+      "date": "2026-09-27T13:27:12-05:00"
     }
   ]
 }
