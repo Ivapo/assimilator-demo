@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "64534c2",
-      "subject": "Merge remote-tracking branch 'origin/editor-lane-classes'",
-      "date": "2026-09-27T13:41:27-05:00"
+      "sha": "82e29bb",
+      "subject": "test: type aliases in insertion_soundness (clippy type_complexity)",
+      "date": "2026-09-27T16:26:29-05:00"
     },
     {
-      "sha": "16cb581",
-      "subject": "docs(demand): record OQ-7 spec decisions — OQ-D1 in Phase 3, OQ-D3 as Phase 4",
-      "date": "2026-09-27T13:41:18-05:00"
+      "sha": "53c097a",
+      "subject": "docs: asm-008 Phase 2 shipped — close-out and reconciliation",
+      "date": "2026-09-27T16:13:45-05:00"
     },
     {
-      "sha": "e5c547a",
-      "subject": "docs: asm-025 Phase 7 shipped — close-out and reconciliation",
-      "date": "2026-09-27T13:27:12-05:00"
+      "sha": "ecf017f",
+      "subject": "Merge remote-tracking branch 'origin/main' into insertion-queue",
+      "date": "2026-09-27T16:11:55-05:00"
     }
   ]
 }
