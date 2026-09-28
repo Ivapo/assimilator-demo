@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "9c3da44",
-      "subject": "specs: follow-up — vehicle-class min_gap is dead config in micro",
-      "date": "2026-09-27T21:23:54-05:00"
+      "sha": "7b6cead",
+      "subject": "Merge origin/entry-zone: asm-008 Phase 5 shipped (length-aware entry zone, G = s0)",
+      "date": "2026-09-28T14:25:24-05:00"
     },
     {
-      "sha": "63f206f",
-      "subject": "Merge origin/safe-insertion: asm-008 Phase 4 shipped, Phase 5 reviewed draft",
-      "date": "2026-09-27T21:23:47-05:00"
+      "sha": "be20969",
+      "subject": "specs: asm-047 — signals from OSM import (drafted, reviewed, accepted)",
+      "date": "2026-09-28T13:32:25-05:00"
     },
     {
-      "sha": "aca14b0",
-      "subject": "docs: asm-008 Phase 5 at G = s0 (OQ-D6 resolved) — re-measured and re-reviewed",
-      "date": "2026-09-27T21:19:22-05:00"
+      "sha": "c64ce07",
+      "subject": "docs: asm-008 Phase 5 shipped — close-out and reconciliation",
+      "date": "2026-09-28T13:13:13-05:00"
     }
   ]
 }
