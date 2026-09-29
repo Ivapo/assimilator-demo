@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "7b6cead",
-      "subject": "Merge origin/entry-zone: asm-008 Phase 5 shipped (length-aware entry zone, G = s0)",
-      "date": "2026-09-28T14:25:24-05:00"
+      "sha": "ab3e92a",
+      "subject": "Merge origin/demand-streams: asm-008 Phase 3 shipped (demand on its own random streams, MCP 0.9.0) + re-baseline",
+      "date": "2026-09-28T19:04:43-05:00"
     },
     {
-      "sha": "be20969",
-      "subject": "specs: asm-047 — signals from OSM import (drafted, reviewed, accepted)",
-      "date": "2026-09-28T13:32:25-05:00"
+      "sha": "2f2fa58",
+      "subject": "specs: asm-020 — record user decisions on Phase 3 OQ-1..OQ-6",
+      "date": "2026-09-28T18:56:59-05:00"
     },
     {
-      "sha": "c64ce07",
-      "subject": "docs: asm-008 Phase 5 shipped — close-out and reconciliation",
-      "date": "2026-09-28T13:13:13-05:00"
+      "sha": "2679458",
+      "subject": "docs: asm-008 Phase 3 shipped — close-out and reconciliation",
+      "date": "2026-09-28T17:00:40-05:00"
     }
   ]
 }
