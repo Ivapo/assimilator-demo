@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "ab3e92a",
-      "subject": "Merge origin/demand-streams: asm-008 Phase 3 shipped (demand on its own random streams, MCP 0.9.0) + re-baseline",
-      "date": "2026-09-28T19:04:43-05:00"
+      "sha": "bf47d8b",
+      "subject": "Merge origin/osm-signals: asm-047 Phase 1 shipped (OSM signals traced to junctions, default plans; step 9 keeps the lowest id)",
+      "date": "2026-09-29T15:27:03-05:00"
     },
     {
-      "sha": "2f2fa58",
-      "subject": "specs: asm-020 — record user decisions on Phase 3 OQ-1..OQ-6",
-      "date": "2026-09-28T18:56:59-05:00"
+      "sha": "7eadf88",
+      "subject": "Merge origin/deterministic-results: asm-020 Phase 4 shipped (deterministic row order in results.db)",
+      "date": "2026-09-29T15:26:36-05:00"
     },
     {
-      "sha": "2679458",
-      "subject": "docs: asm-008 Phase 3 shipped — close-out and reconciliation",
-      "date": "2026-09-28T17:00:40-05:00"
+      "sha": "a8a55e4",
+      "subject": "docs: asm-020 Phase 4 shipped — close-out",
+      "date": "2026-09-29T15:20:08-05:00"
     }
   ]
 }
