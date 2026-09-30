@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "bf47d8b",
-      "subject": "Merge origin/osm-signals: asm-047 Phase 1 shipped (OSM signals traced to junctions, default plans; step 9 keeps the lowest id)",
-      "date": "2026-09-29T15:27:03-05:00"
+      "sha": "e08cbb3",
+      "subject": "Merge branch 'matsim-import' (asm-049 Phase 1 + Phase 2 review)",
+      "date": "2026-09-30T13:13:34-05:00"
     },
     {
-      "sha": "7eadf88",
-      "subject": "Merge origin/deterministic-results: asm-020 Phase 4 shipped (deterministic row order in results.db)",
-      "date": "2026-09-29T15:26:36-05:00"
+      "sha": "a5caf6d",
+      "subject": "specs: asm-047 Phase 2 gate 5 user check passed",
+      "date": "2026-09-30T13:12:26-05:00"
     },
     {
-      "sha": "a8a55e4",
-      "subject": "docs: asm-020 Phase 4 shipped — close-out",
-      "date": "2026-09-29T15:20:08-05:00"
+      "sha": "4d420b7",
+      "subject": "Merge branch 'signal-plan-route' (asm-047 Phase 2)",
+      "date": "2026-09-30T13:12:11-05:00"
     }
   ]
 }
