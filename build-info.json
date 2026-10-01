@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "e08cbb3",
-      "subject": "Merge branch 'matsim-import' (asm-049 Phase 1 + Phase 2 review)",
-      "date": "2026-09-30T13:13:34-05:00"
+      "sha": "be50b77",
+      "subject": "Merge branch 'meso-link-capacity' (asm-044 Phase 5 shipped: per-link capacity in meso)",
+      "date": "2026-10-01T08:44:38-05:00"
     },
     {
-      "sha": "a5caf6d",
-      "subject": "specs: asm-047 Phase 2 gate 5 user check passed",
-      "date": "2026-09-30T13:12:26-05:00"
+      "sha": "d9c106d",
+      "subject": "rules, docs, specs: asm-044 Phase 5 close-out — per-link capacity shipped",
+      "date": "2026-10-01T00:08:48-05:00"
     },
     {
-      "sha": "4d420b7",
-      "subject": "Merge branch 'signal-plan-route' (asm-047 Phase 2)",
-      "date": "2026-09-30T13:12:11-05:00"
+      "sha": "8a7c4be",
+      "subject": "server: editor round-trip fixture carries a link capacity (asm-044 Phase 5 gate 12)",
+      "date": "2026-09-30T23:11:20-05:00"
     }
   ]
 }
