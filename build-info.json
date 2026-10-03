@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "be50b77",
-      "subject": "Merge branch 'meso-link-capacity' (asm-044 Phase 5 shipped: per-link capacity in meso)",
-      "date": "2026-10-01T08:44:38-05:00"
+      "sha": "c58e658",
+      "subject": "Merge branch 'junction-inside-lock': asm-016 Phase 3 shipped (in-junction lock, clamp hold, lane-change drop at entry and exit)",
+      "date": "2026-10-03T10:15:12-05:00"
     },
     {
-      "sha": "d9c106d",
-      "subject": "rules, docs, specs: asm-044 Phase 5 close-out — per-link capacity shipped",
-      "date": "2026-10-01T00:08:48-05:00"
+      "sha": "ad11b4a",
+      "subject": "Merge branch 'meso-loading-study': asm-044 Phase 6 loading study shipped (specs only)",
+      "date": "2026-10-03T10:14:36-05:00"
     },
     {
-      "sha": "8a7c4be",
-      "subject": "server: editor round-trip fixture carries a link capacity (asm-044 Phase 5 gate 12)",
-      "date": "2026-09-30T23:11:20-05:00"
+      "sha": "4fba51a",
+      "subject": "Merge branch 'matsim-routes': asm-049 Phase 6 shipped (--use-routes import)",
+      "date": "2026-10-03T10:14:32-05:00"
     }
   ]
 }
