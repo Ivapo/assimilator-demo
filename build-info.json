@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "c58e658",
-      "subject": "Merge branch 'junction-inside-lock': asm-016 Phase 3 shipped (in-junction lock, clamp hold, lane-change drop at entry and exit)",
-      "date": "2026-10-03T10:15:12-05:00"
+      "sha": "b15d39c",
+      "subject": "Merge branch 'meso-departures': asm-044 Phase 7 shipped (MATSim's departure model in meso, opt-in)",
+      "date": "2026-10-03T13:01:29-05:00"
     },
     {
-      "sha": "ad11b4a",
-      "subject": "Merge branch 'meso-loading-study': asm-044 Phase 6 loading study shipped (specs only)",
-      "date": "2026-10-03T10:14:36-05:00"
+      "sha": "59521df",
+      "subject": "specs: asm-044 Phase 7 cites signalized_network where it now lives",
+      "date": "2026-10-03T11:52:46-05:00"
     },
     {
-      "sha": "4fba51a",
-      "subject": "Merge branch 'matsim-routes': asm-049 Phase 6 shipped (--use-routes import)",
-      "date": "2026-10-03T10:14:32-05:00"
+      "sha": "8adf800",
+      "subject": "Merge origin/main (c58e658) into meso-departures",
+      "date": "2026-10-03T11:52:45-05:00"
     }
   ]
 }
