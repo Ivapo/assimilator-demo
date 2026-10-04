@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "b15d39c",
-      "subject": "Merge branch 'meso-departures': asm-044 Phase 7 shipped (MATSim's departure model in meso, opt-in)",
-      "date": "2026-10-03T13:01:29-05:00"
+      "sha": "9033159",
+      "subject": "Merge remote-tracking branch 'origin/junction-route-repair'",
+      "date": "2026-10-04T00:12:57-05:00"
     },
     {
-      "sha": "59521df",
-      "subject": "specs: asm-044 Phase 7 cites signalized_network where it now lives",
-      "date": "2026-10-03T11:52:46-05:00"
+      "sha": "aa3a627",
+      "subject": "docs, rules: reconcile asm-016 Phase 4",
+      "date": "2026-10-04T00:06:38-05:00"
     },
     {
-      "sha": "8adf800",
-      "subject": "Merge origin/main (c58e658) into meso-departures",
-      "date": "2026-10-03T11:52:45-05:00"
+      "sha": "3a564dc",
+      "subject": "specs: asm-016 Phase 4 shipped — gate record",
+      "date": "2026-10-04T00:02:59-05:00"
     }
   ]
 }
