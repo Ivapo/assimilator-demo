@@ -1,19 +1,19 @@
 {
   "commits": [
     {
+      "sha": "90b3929",
+      "subject": "Merge remote-tracking branch 'origin/core-hash-order'",
+      "date": "2026-10-04T20:06:26-05:00"
+    },
+    {
       "sha": "986d07a",
       "subject": "Merge remote-tracking branch 'origin/meso-replanning'",
       "date": "2026-10-04T19:00:22-05:00"
     },
     {
-      "sha": "6077751",
-      "subject": "specs: asm-050 Phase 1 shipped 2026-10-04",
-      "date": "2026-10-04T15:58:37-05:00"
-    },
-    {
-      "sha": "cb85309",
-      "subject": "rules, docs: asm-050 Phase 1 reconciliation",
-      "date": "2026-10-04T15:58:26-05:00"
+      "sha": "bb14f03",
+      "subject": "specs: asm-016 Phase 5 shipped — gate record",
+      "date": "2026-10-04T18:15:07-05:00"
     }
   ]
 }
