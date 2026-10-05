@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "90b3929",
-      "subject": "Merge remote-tracking branch 'origin/core-hash-order'",
-      "date": "2026-10-04T20:06:26-05:00"
+      "sha": "f1c1243",
+      "subject": "Merge meso-stuck-rule: asm-044 Phase 10, MATSim's stuck rule (meso.stuck_time)",
+      "date": "2026-10-05T08:33:57-05:00"
     },
     {
-      "sha": "986d07a",
-      "subject": "Merge remote-tracking branch 'origin/meso-replanning'",
-      "date": "2026-10-04T19:00:22-05:00"
+      "sha": "2468c50",
+      "subject": "specs: asm-044 Phase 10 shipped — record and close-out",
+      "date": "2026-10-05T00:34:23-05:00"
     },
     {
-      "sha": "bb14f03",
-      "subject": "specs: asm-016 Phase 5 shipped — gate record",
-      "date": "2026-10-04T18:15:07-05:00"
+      "sha": "7284cea",
+      "subject": "docs, rules: reconcile asm-044 Phase 10 (meso.stuck_time)",
+      "date": "2026-10-05T00:31:00-05:00"
     }
   ]
 }
