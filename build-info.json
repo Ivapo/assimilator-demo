@@ -1,19 +1,19 @@
 {
   "commits": [
     {
+      "sha": "0c384e3",
+      "subject": "Merge meso-route-cost: asm-050 Phase 2, MATSim's route cost",
+      "date": "2026-10-05T10:38:50-05:00"
+    },
+    {
       "sha": "f1c1243",
       "subject": "Merge meso-stuck-rule: asm-044 Phase 10, MATSim's stuck rule (meso.stuck_time)",
       "date": "2026-10-05T08:33:57-05:00"
     },
     {
-      "sha": "2468c50",
-      "subject": "specs: asm-044 Phase 10 shipped — record and close-out",
-      "date": "2026-10-05T00:34:23-05:00"
-    },
-    {
-      "sha": "7284cea",
-      "subject": "docs, rules: reconcile asm-044 Phase 10 (meso.stuck_time)",
-      "date": "2026-10-05T00:31:00-05:00"
+      "sha": "cb66ae9",
+      "subject": "rules/docs: reconcile asm-050 Phase 2; Phase 2 shipped",
+      "date": "2026-10-05T00:55:12-05:00"
     }
   ]
 }
