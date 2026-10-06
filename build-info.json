@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "0c384e3",
-      "subject": "Merge meso-route-cost: asm-050 Phase 2, MATSim's route cost",
-      "date": "2026-10-05T10:38:50-05:00"
+      "sha": "7405602",
+      "subject": "Merge junction-same-approach: asm-016 Phase 6, lane-exact conflict points for same-approach crossings",
+      "date": "2026-10-05T18:26:53-05:00"
     },
     {
-      "sha": "f1c1243",
-      "subject": "Merge meso-stuck-rule: asm-044 Phase 10, MATSim's stuck rule (meso.stuck_time)",
-      "date": "2026-10-05T08:33:57-05:00"
+      "sha": "30c886d",
+      "subject": "specs: asm-016 OQ-25 decided (a), own phase after OQ-21's; Phase 6 scratch copied",
+      "date": "2026-10-05T18:00:42-05:00"
     },
     {
-      "sha": "cb66ae9",
-      "subject": "rules/docs: reconcile asm-050 Phase 2; Phase 2 shipped",
-      "date": "2026-10-05T00:55:12-05:00"
+      "sha": "995b627",
+      "subject": "specs: asm-016 Phase 6 shipped — gate record",
+      "date": "2026-10-05T17:49:02-05:00"
     }
   ]
 }
