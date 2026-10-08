@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "7405602",
-      "subject": "Merge junction-same-approach: asm-016 Phase 6, lane-exact conflict points for same-approach crossings",
-      "date": "2026-10-05T18:26:53-05:00"
+      "sha": "9cd5c8f",
+      "subject": "Merge branch 'junction-diverge-body' (asm-016 Phase 7)",
+      "date": "2026-10-08T18:26:28-05:00"
     },
     {
-      "sha": "30c886d",
-      "subject": "specs: asm-016 OQ-25 decided (a), own phase after OQ-21's; Phase 6 scratch copied",
-      "date": "2026-10-05T18:00:42-05:00"
+      "sha": "99f44bb",
+      "subject": "specs: asm-016 Phase 7 shipped — gate record",
+      "date": "2026-10-08T15:07:38-05:00"
     },
     {
-      "sha": "995b627",
-      "subject": "specs: asm-016 Phase 6 shipped — gate record",
-      "date": "2026-10-05T17:49:02-05:00"
+      "sha": "bf0d360",
+      "subject": "docs: asm-016 Phase 7 reconciliation",
+      "date": "2026-10-08T15:06:14-05:00"
     }
   ]
 }
