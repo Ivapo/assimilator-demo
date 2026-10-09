@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "9cd5c8f",
-      "subject": "Merge branch 'junction-diverge-body' (asm-016 Phase 7)",
-      "date": "2026-10-08T18:26:28-05:00"
+      "sha": "3b3f7df",
+      "subject": "Merge branch 'junction-merge-body' (asm-016 Phase 8)",
+      "date": "2026-10-09T10:19:15-05:00"
     },
     {
-      "sha": "99f44bb",
-      "subject": "specs: asm-016 Phase 7 shipped — gate record",
-      "date": "2026-10-08T15:07:38-05:00"
+      "sha": "9dd7ca8",
+      "subject": "specs: asm-016 Phase 8 shipped — gate record",
+      "date": "2026-10-09T09:25:25-05:00"
     },
     {
-      "sha": "bf0d360",
-      "subject": "docs: asm-016 Phase 7 reconciliation",
-      "date": "2026-10-08T15:06:14-05:00"
+      "sha": "917ff6b",
+      "subject": "docs: asm-016 Phase 8 reconciliation — the merge order in rules and the manual",
+      "date": "2026-10-09T09:24:14-05:00"
     }
   ]
 }
