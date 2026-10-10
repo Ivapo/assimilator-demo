@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "3b3f7df",
-      "subject": "Merge branch 'junction-merge-body' (asm-016 Phase 8)",
-      "date": "2026-10-09T10:19:15-05:00"
+      "sha": "0cf95d8",
+      "subject": "Merge branch 'junction-emergency-body': asm-016 Phase 9 — collision avoidance brakes for a body in the vehicle's own corridor ahead",
+      "date": "2026-10-10T10:01:24-05:00"
     },
     {
-      "sha": "9dd7ca8",
-      "subject": "specs: asm-016 Phase 8 shipped — gate record",
-      "date": "2026-10-09T09:25:25-05:00"
+      "sha": "f6ab2bc",
+      "subject": "specs: asm-016 Phase 9 shipped — gate record",
+      "date": "2026-10-10T09:02:34-05:00"
     },
     {
-      "sha": "917ff6b",
-      "subject": "docs: asm-016 Phase 8 reconciliation — the merge order in rules and the manual",
-      "date": "2026-10-09T09:24:14-05:00"
+      "sha": "453b015",
+      "subject": "docs: asm-016 Phase 9 reconciliation — the corridor gap in rules and the manual",
+      "date": "2026-10-10T08:58:32-05:00"
     }
   ]
 }
