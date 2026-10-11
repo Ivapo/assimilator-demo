@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "0cf95d8",
-      "subject": "Merge branch 'junction-emergency-body': asm-016 Phase 9 — collision avoidance brakes for a body in the vehicle's own corridor ahead",
-      "date": "2026-10-10T10:01:24-05:00"
+      "sha": "87c0913",
+      "subject": "Merge branch 'persons-plans': asm-051 Phase 1 — persons with daily car plans on meso",
+      "date": "2026-10-11T07:04:51-05:00"
     },
     {
-      "sha": "f6ab2bc",
-      "subject": "specs: asm-016 Phase 9 shipped — gate record",
-      "date": "2026-10-10T09:02:34-05:00"
+      "sha": "17588ef",
+      "subject": "specs: the user's five decisions on asm-051 Phase 1's record (2026-10-10)",
+      "date": "2026-10-10T22:54:04-05:00"
     },
     {
-      "sha": "453b015",
-      "subject": "docs: asm-016 Phase 9 reconciliation — the corridor gap in rules and the manual",
-      "date": "2026-10-10T08:58:32-05:00"
+      "sha": "a6d029e",
+      "subject": "specs: asm-051 Phase 1's Sioux Falls record; shipped",
+      "date": "2026-10-10T22:29:20-05:00"
     }
   ]
 }
