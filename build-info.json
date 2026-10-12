@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "b4f9e22",
-      "subject": "Merge branch 'transit-leader-identity': asm-029 Phase 12 — the transit leaders have an identity",
-      "date": "2026-10-11T18:47:45-05:00"
+      "sha": "bec99c0",
+      "subject": "Merge branch 'persons-time': asm-051 Phase 2 — persons can change when they leave",
+      "date": "2026-10-11T23:35:13-05:00"
     },
     {
-      "sha": "0fb5a28",
-      "subject": "specs: asm-029 Phase 12 shipped — gate record",
-      "date": "2026-10-11T18:15:41-05:00"
+      "sha": "3784771",
+      "subject": "specs: asm-051 Phase 2's Sioux Falls record; shipped (2026-10-11)",
+      "date": "2026-10-11T20:30:39-05:00"
     },
     {
-      "sha": "c0f6b04",
-      "subject": "docs: asm-029 Phase 12 reconciliation",
-      "date": "2026-10-11T18:13:47-05:00"
+      "sha": "98aed3d",
+      "subject": "rules, docs: departure-time mutation (asm-051 Phase 2)",
+      "date": "2026-10-11T20:16:39-05:00"
     }
   ]
 }
