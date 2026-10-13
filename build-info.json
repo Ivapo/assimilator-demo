@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "bec99c0",
-      "subject": "Merge branch 'persons-time': asm-051 Phase 2 — persons can change when they leave",
-      "date": "2026-10-11T23:35:13-05:00"
+      "sha": "dd32f4a",
+      "subject": "Merge remote-tracking branch 'origin/persons-memory'",
+      "date": "2026-10-13T00:16:19-05:00"
     },
     {
-      "sha": "3784771",
-      "subject": "specs: asm-051 Phase 2's Sioux Falls record; shipped (2026-10-11)",
-      "date": "2026-10-11T20:30:39-05:00"
+      "sha": "76679cd",
+      "subject": "Merge remote-tracking branch 'origin/persons-load'",
+      "date": "2026-10-13T00:16:14-05:00"
     },
     {
-      "sha": "98aed3d",
-      "subject": "rules, docs: departure-time mutation (asm-051 Phase 2)",
-      "date": "2026-10-11T20:16:39-05:00"
+      "sha": "7489a65",
+      "subject": "specs: asm-051 Phase 8, the user's two decisions on the record (2026-10-13)",
+      "date": "2026-10-13T00:10:44-05:00"
     }
   ]
 }
