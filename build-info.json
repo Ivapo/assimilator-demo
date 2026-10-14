@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "e2e836f",
-      "subject": "Merge remote-tracking branch 'origin/transit-signed-gap'",
-      "date": "2026-10-13T23:40:30-05:00"
+      "sha": "2619726",
+      "subject": "Merge remote-tracking branch 'origin/persons-crn'",
+      "date": "2026-10-14T09:04:45-05:00"
     },
     {
-      "sha": "1efab6a",
-      "subject": "specs: asm-029 Phase 13 shipped — gate record",
-      "date": "2026-10-13T11:39:27-05:00"
+      "sha": "890ff4d",
+      "subject": "specs: asm-051 Phase 3 shipped — record, status lines (2026-10-14)",
+      "date": "2026-10-14T04:16:59-05:00"
     },
     {
-      "sha": "aaf75d5",
-      "subject": "docs: asm-029 Phase 13 reconciliation",
-      "date": "2026-10-13T11:38:39-05:00"
+      "sha": "c9bf749",
+      "subject": "rules, docs: asm-051 Phase 3, replanning.draw_key",
+      "date": "2026-10-14T04:14:53-05:00"
     }
   ]
 }
