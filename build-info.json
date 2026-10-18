@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "a2b27e6",
-      "subject": "Merge remote-tracking branch 'origin/scenario-check'",
-      "date": "2026-10-15T00:17:34-05:00"
+      "sha": "84e2ef8",
+      "subject": "Merge remote-tracking branch 'origin/corridor-along'",
+      "date": "2026-10-18T07:17:30-05:00"
     },
     {
-      "sha": "f209150",
-      "subject": "specs: asm-001 Phase 12 shipped — record, rules, status (surface 0.12.0)",
-      "date": "2026-10-14T23:42:58-05:00"
+      "sha": "a681515",
+      "subject": "specs: asm-016 Phase 11 shipped — gate record",
+      "date": "2026-10-18T00:35:11-05:00"
     },
     {
-      "sha": "6717a93",
-      "subject": "mcp, project, network: asm-001 Phase 12 — check_scenario and lane-cut statements (surface 0.12.0)",
-      "date": "2026-10-14T23:27:38-05:00"
+      "sha": "3419710",
+      "subject": "docs: asm-016 Phase 11 reconciliation",
+      "date": "2026-10-17T23:59:42-05:00"
     }
   ]
 }
