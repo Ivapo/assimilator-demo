@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "84e2ef8",
-      "subject": "Merge remote-tracking branch 'origin/corridor-along'",
-      "date": "2026-10-18T07:17:30-05:00"
+      "sha": "cf88b98",
+      "subject": "Merge remote-tracking branch 'origin/persons-micro'",
+      "date": "2026-10-18T13:20:11-05:00"
     },
     {
-      "sha": "a681515",
-      "subject": "specs: asm-016 Phase 11 shipped — gate record",
-      "date": "2026-10-18T00:35:11-05:00"
+      "sha": "d8656aa",
+      "subject": "specs: asm-051 Phase 5 shipped — record, status (surface 0.14.0)",
+      "date": "2026-10-18T13:03:00-05:00"
     },
     {
-      "sha": "3419710",
-      "subject": "docs: asm-016 Phase 11 reconciliation",
-      "date": "2026-10-17T23:59:42-05:00"
+      "sha": "67ec336",
+      "subject": "rules, docs: asm-051 Phase 5 — persons in micro (surface 0.14.0)",
+      "date": "2026-10-18T10:32:18-05:00"
     }
   ]
 }
