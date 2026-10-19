@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "d8f617b",
-      "subject": "Merge small-fixes-1: the small-fixes batch, round 1",
-      "date": "2026-10-19T06:18:49-05:00"
+      "sha": "8ba5252",
+      "subject": "Merge branch 'small-fixes-2'",
+      "date": "2026-10-19T11:36:55-05:00"
     },
     {
-      "sha": "87e611c",
-      "subject": "server(examples): dump_frames prints the whole conf list",
-      "date": "2026-10-18T23:04:18-05:00"
+      "sha": "5ff5d5c",
+      "subject": "cli: --no-summary skips the end-of-run summary",
+      "date": "2026-10-19T10:43:30-05:00"
     },
     {
-      "sha": "51e1c6b",
-      "subject": "cli: assign's start line counts persons in a person run",
-      "date": "2026-10-18T22:36:30-05:00"
+      "sha": "fa3f592",
+      "subject": "cli: the meso run banner prints meso's timestep and step count",
+      "date": "2026-10-19T10:25:27-05:00"
     }
   ]
 }
