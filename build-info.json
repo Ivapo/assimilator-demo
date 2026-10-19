@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "cf88b98",
-      "subject": "Merge remote-tracking branch 'origin/persons-micro'",
-      "date": "2026-10-18T13:20:11-05:00"
+      "sha": "d8f617b",
+      "subject": "Merge small-fixes-1: the small-fixes batch, round 1",
+      "date": "2026-10-19T06:18:49-05:00"
     },
     {
-      "sha": "d8656aa",
-      "subject": "specs: asm-051 Phase 5 shipped — record, status (surface 0.14.0)",
-      "date": "2026-10-18T13:03:00-05:00"
+      "sha": "87e611c",
+      "subject": "server(examples): dump_frames prints the whole conf list",
+      "date": "2026-10-18T23:04:18-05:00"
     },
     {
-      "sha": "67ec336",
-      "subject": "rules, docs: asm-051 Phase 5 — persons in micro (surface 0.14.0)",
-      "date": "2026-10-18T10:32:18-05:00"
+      "sha": "51e1c6b",
+      "subject": "cli: assign's start line counts persons in a person run",
+      "date": "2026-10-18T22:36:30-05:00"
     }
   ]
 }
