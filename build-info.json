@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "8ba5252",
-      "subject": "Merge branch 'small-fixes-2'",
-      "date": "2026-10-19T11:36:55-05:00"
+      "sha": "1562c67",
+      "subject": "Merge remote-tracking branch 'origin/persons-xml'",
+      "date": "2026-10-20T14:00:39-05:00"
     },
     {
-      "sha": "5ff5d5c",
-      "subject": "cli: --no-summary skips the end-of-run summary",
-      "date": "2026-10-19T10:43:30-05:00"
+      "sha": "c43e338",
+      "subject": "Merge remote-tracking branch 'origin/small-fixes-3'",
+      "date": "2026-10-20T14:00:23-05:00"
     },
     {
-      "sha": "fa3f592",
-      "subject": "cli: the meso run banner prints meso's timestep and step count",
-      "date": "2026-10-19T10:25:27-05:00"
+      "sha": "df14fb8",
+      "subject": "specs: asm-051 Phase 10 shipped — record, status",
+      "date": "2026-10-20T08:52:29-05:00"
     }
   ]
 }
