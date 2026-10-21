@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "1562c67",
-      "subject": "Merge remote-tracking branch 'origin/persons-xml'",
-      "date": "2026-10-20T14:00:39-05:00"
+      "sha": "45da263",
+      "subject": "Merge remote-tracking branch 'origin/small-fixes-4'",
+      "date": "2026-10-20T22:39:59-05:00"
     },
     {
-      "sha": "c43e338",
-      "subject": "Merge remote-tracking branch 'origin/small-fixes-3'",
-      "date": "2026-10-20T14:00:23-05:00"
+      "sha": "74ab3a8",
+      "subject": "specs: record small-fixes-4's B2 finding (dropped)",
+      "date": "2026-10-20T18:38:12-05:00"
     },
     {
-      "sha": "df14fb8",
-      "subject": "specs: asm-051 Phase 10 shipped — record, status",
-      "date": "2026-10-20T08:52:29-05:00"
+      "sha": "5061804",
+      "subject": "core, web, demo: route previews follow a vehicle's arrival_link (small-fixes-4 B3)",
+      "date": "2026-10-20T18:38:11-05:00"
     }
   ]
 }
