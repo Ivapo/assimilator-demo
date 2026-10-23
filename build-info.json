@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "2fedacd",
-      "subject": "Merge remote-tracking branch 'origin/small-fixes-5'",
-      "date": "2026-10-23T10:01:04-05:00"
+      "sha": "82c0e4b",
+      "subject": "specs: feature_inventory notes the 422 (small-fixes-6 B4)",
+      "date": "2026-10-23T15:52:54-05:00"
     },
     {
-      "sha": "945fea3",
-      "subject": "demo: Play retries after a worker error, with the edits that failed (small-fixes-5 B3)",
-      "date": "2026-10-23T09:09:24-05:00"
+      "sha": "3d84824",
+      "subject": "Merge remote-tracking branch 'origin/persons-scheme'",
+      "date": "2026-10-23T15:52:40-05:00"
     },
     {
-      "sha": "58d582c",
-      "subject": "web, demo: the save refuses a demand naming a link or node the network lacks (small-fixes-5 B2)",
-      "date": "2026-10-23T09:08:07-05:00"
+      "sha": "1d86330",
+      "subject": "Merge remote-tracking branch 'origin/small-fixes-6'",
+      "date": "2026-10-23T15:52:24-05:00"
     }
   ]
 }
