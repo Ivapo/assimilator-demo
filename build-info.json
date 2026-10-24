@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "82c0e4b",
-      "subject": "specs: feature_inventory notes the 422 (small-fixes-6 B4)",
-      "date": "2026-10-23T15:52:54-05:00"
+      "sha": "09c1da4",
+      "subject": "Merge small-fixes-7: the small-fixes batch, round 7",
+      "date": "2026-10-24T09:36:57-05:00"
     },
     {
-      "sha": "3d84824",
-      "subject": "Merge remote-tracking branch 'origin/persons-scheme'",
-      "date": "2026-10-23T15:52:40-05:00"
+      "sha": "a1472b3",
+      "subject": "editor: a merge moves a vehicle's link fields (small-fixes-7 B3)",
+      "date": "2026-10-24T08:30:25-05:00"
     },
     {
-      "sha": "1d86330",
-      "subject": "Merge remote-tracking branch 'origin/small-fixes-6'",
-      "date": "2026-10-23T15:52:24-05:00"
+      "sha": "a623fb9",
+      "subject": "editor: keep a waypoint an OD names (small-fixes-7 B2)",
+      "date": "2026-10-24T08:30:25-05:00"
     }
   ]
 }
