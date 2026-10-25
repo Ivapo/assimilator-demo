@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "09c1da4",
-      "subject": "Merge small-fixes-7: the small-fixes batch, round 7",
-      "date": "2026-10-24T09:36:57-05:00"
+      "sha": "e7f3919",
+      "subject": "Merge results-map: asm-052 Phase 1, every run writes link_intervals",
+      "date": "2026-10-24T21:34:53-05:00"
     },
     {
-      "sha": "a1472b3",
-      "subject": "editor: a merge moves a vehicle's link fields (small-fixes-7 B3)",
-      "date": "2026-10-24T08:30:25-05:00"
+      "sha": "e169515",
+      "subject": "specs: asm-052 Phase 1 shipped",
+      "date": "2026-10-24T21:15:57-05:00"
     },
     {
-      "sha": "a623fb9",
-      "subject": "editor: keep a waypoint an OD names (small-fixes-7 B2)",
-      "date": "2026-10-24T08:30:25-05:00"
+      "sha": "fe57699",
+      "subject": "rules, docs: reconcile asm-052 Phase 1",
+      "date": "2026-10-24T21:15:45-05:00"
     }
   ]
 }
