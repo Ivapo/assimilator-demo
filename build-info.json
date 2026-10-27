@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "e7f3919",
-      "subject": "Merge results-map: asm-052 Phase 1, every run writes link_intervals",
-      "date": "2026-10-24T21:34:53-05:00"
+      "sha": "504a69e",
+      "subject": "Merge results-map-p2: asm-052 Phase 2, the results map in the editor",
+      "date": "2026-10-27T23:04:39+01:00"
     },
     {
-      "sha": "e169515",
-      "subject": "specs: asm-052 Phase 1 shipped",
-      "date": "2026-10-24T21:15:57-05:00"
+      "sha": "e8e14e1",
+      "subject": "specs: asm-052 Phase 2 shipped",
+      "date": "2026-10-27T13:56:24+01:00"
     },
     {
-      "sha": "fe57699",
-      "subject": "rules, docs: reconcile asm-052 Phase 1",
-      "date": "2026-10-24T21:15:45-05:00"
+      "sha": "507affd",
+      "subject": "rules, docs, specs: reconcile asm-052 Phase 2",
+      "date": "2026-10-27T13:55:59+01:00"
     }
   ]
 }
