@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "909be86",
-      "subject": "Merge small-fixes-9: the large-project save and import, waypoints a route needs",
-      "date": "2026-10-28T02:13:51+01:00"
+      "sha": "efac8ef",
+      "subject": "Merge small-fixes-10: junction vertices only as written, YAML 1.1-safe string quoting",
+      "date": "2026-10-28T19:25:23+01:00"
     },
     {
-      "sha": "23db4b7",
-      "subject": "specs, rules, docs: reconcile small-fixes-9",
-      "date": "2026-10-28T01:22:11+01:00"
+      "sha": "ed99b67",
+      "subject": "specs, rules, docs: reconcile small-fixes-10",
+      "date": "2026-10-28T16:43:33+01:00"
     },
     {
-      "sha": "e74c68e",
-      "subject": "web: Reduce Waypoints holds a waypoint a route starts or ends at (small-fixes-9 B2)",
-      "date": "2026-10-28T01:20:49+01:00"
+      "sha": "37b3f66",
+      "subject": "config, cli, project, replanning, server: strings a YAML 1.1 reader misreads are written quoted (small-fixes-10 B2)",
+      "date": "2026-10-28T16:41:43+01:00"
     }
   ]
 }
