@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "504a69e",
-      "subject": "Merge results-map-p2: asm-052 Phase 2, the results map in the editor",
-      "date": "2026-10-27T23:04:39+01:00"
+      "sha": "909be86",
+      "subject": "Merge small-fixes-9: the large-project save and import, waypoints a route needs",
+      "date": "2026-10-28T02:13:51+01:00"
     },
     {
-      "sha": "e8e14e1",
-      "subject": "specs: asm-052 Phase 2 shipped",
-      "date": "2026-10-27T13:56:24+01:00"
+      "sha": "23db4b7",
+      "subject": "specs, rules, docs: reconcile small-fixes-9",
+      "date": "2026-10-28T01:22:11+01:00"
     },
     {
-      "sha": "507affd",
-      "subject": "rules, docs, specs: reconcile asm-052 Phase 2",
-      "date": "2026-10-27T13:55:59+01:00"
+      "sha": "e74c68e",
+      "subject": "web: Reduce Waypoints holds a waypoint a route starts or ends at (small-fixes-9 B2)",
+      "date": "2026-10-28T01:20:49+01:00"
     }
   ]
 }
