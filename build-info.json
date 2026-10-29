@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "95c117e",
-      "subject": "Merge results-map-p4: select-link on the results map (asm-052 Phase 4)",
-      "date": "2026-10-28T20:30:16+01:00"
+      "sha": "13a6621",
+      "subject": "Merge results-map-p3: the per-iteration view of an assignment (asm-052 Phase 3)",
+      "date": "2026-10-29T16:18:40+01:00"
     },
     {
-      "sha": "513e36f",
-      "subject": "docs: gui.md Run (meso) no longer says a large save is refused",
-      "date": "2026-10-28T20:03:46+01:00"
+      "sha": "1a465b1",
+      "subject": "specs: asm-052 Phase 3 shipped (2026-10-29)",
+      "date": "2026-10-29T16:09:33+01:00"
     },
     {
-      "sha": "1e41033",
-      "subject": "specs: asm-052 Phase 4 shipped (2026-10-28)",
-      "date": "2026-10-28T19:59:17+01:00"
+      "sha": "ea39d49",
+      "subject": "asm-052 Phase 3 reconciliation: rules, manual, inventory and status",
+      "date": "2026-10-29T16:09:16+01:00"
     }
   ]
 }
