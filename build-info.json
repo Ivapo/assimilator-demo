@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "bb0ad0e",
-      "subject": "Merge modes: teleported walk and pt with modes fixed (asm-053 Phase 1)",
-      "date": "2026-10-30T11:41:15+01:00"
+      "sha": "8c97faa",
+      "subject": "Merge modes-p2: mode choice, MATSim's SubtourModeChoice (asm-053 Phase 2)",
+      "date": "2026-10-30T18:00:59+01:00"
     },
     {
-      "sha": "1b92add",
-      "subject": "specs: asm-053 Phase 1 shipped (2026-10-30); the Sioux Falls record",
-      "date": "2026-10-30T04:40:11+01:00"
+      "sha": "a008589",
+      "subject": "specs: asm-053 Phase 2 shipped (2026-10-30); the Sioux Falls record",
+      "date": "2026-10-30T17:21:44+01:00"
     },
     {
-      "sha": "0285837",
-      "subject": "rules, docs: reconcile asm-053 Phase 1 (teleported walk and pt)",
-      "date": "2026-10-30T04:39:12+01:00"
+      "sha": "a2ab7f1",
+      "subject": "replanning: asm-053 Phase 2 gate 3, a trip run ignores mode_choice_share (a test)",
+      "date": "2026-10-30T17:21:21+01:00"
     }
   ]
 }
