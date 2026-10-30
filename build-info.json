@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "13a6621",
-      "subject": "Merge results-map-p3: the per-iteration view of an assignment (asm-052 Phase 3)",
-      "date": "2026-10-29T16:18:40+01:00"
+      "sha": "bb0ad0e",
+      "subject": "Merge modes: teleported walk and pt with modes fixed (asm-053 Phase 1)",
+      "date": "2026-10-30T11:41:15+01:00"
     },
     {
-      "sha": "1a465b1",
-      "subject": "specs: asm-052 Phase 3 shipped (2026-10-29)",
-      "date": "2026-10-29T16:09:33+01:00"
+      "sha": "1b92add",
+      "subject": "specs: asm-053 Phase 1 shipped (2026-10-30); the Sioux Falls record",
+      "date": "2026-10-30T04:40:11+01:00"
     },
     {
-      "sha": "ea39d49",
-      "subject": "asm-052 Phase 3 reconciliation: rules, manual, inventory and status",
-      "date": "2026-10-29T16:09:16+01:00"
+      "sha": "0285837",
+      "subject": "rules, docs: reconcile asm-053 Phase 1 (teleported walk and pt)",
+      "date": "2026-10-30T04:39:12+01:00"
     }
   ]
 }
