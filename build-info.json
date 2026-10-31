@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "f58903f",
-      "subject": "Merge network-table: the editor's network table and bulk edit (asm-025 Phase 9)",
-      "date": "2026-10-31T10:29:18+01:00"
+      "sha": "5643dac",
+      "subject": "Merge transit-p2: passengers on the buses (asm-054 Phase 2)",
+      "date": "2026-10-31T23:06:27+01:00"
     },
     {
-      "sha": "60e593e",
-      "subject": "Merge transit: scheduled buses in meso (asm-054 Phase 1)",
-      "date": "2026-10-31T10:28:47+01:00"
+      "sha": "00ed6d5",
+      "subject": "specs: asm-054 Phase 2 shipped — the Sioux Falls record, status lines, inventory",
+      "date": "2026-10-31T22:21:54+01:00"
     },
     {
-      "sha": "473d3b9",
-      "subject": "docs: asm-025 Phase 9 close-out — the network table shipped",
-      "date": "2026-10-31T04:51:50+01:00"
+      "sha": "9fd330c",
+      "subject": "rules, docs: asm-054 Phase 2 — passengers, the release key, the two tables",
+      "date": "2026-10-31T20:04:40+01:00"
     }
   ]
 }
