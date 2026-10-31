@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "8c97faa",
-      "subject": "Merge modes-p2: mode choice, MATSim's SubtourModeChoice (asm-053 Phase 2)",
-      "date": "2026-10-30T18:00:59+01:00"
+      "sha": "f58903f",
+      "subject": "Merge network-table: the editor's network table and bulk edit (asm-025 Phase 9)",
+      "date": "2026-10-31T10:29:18+01:00"
     },
     {
-      "sha": "a008589",
-      "subject": "specs: asm-053 Phase 2 shipped (2026-10-30); the Sioux Falls record",
-      "date": "2026-10-30T17:21:44+01:00"
+      "sha": "60e593e",
+      "subject": "Merge transit: scheduled buses in meso (asm-054 Phase 1)",
+      "date": "2026-10-31T10:28:47+01:00"
     },
     {
-      "sha": "a2ab7f1",
-      "subject": "replanning: asm-053 Phase 2 gate 3, a trip run ignores mode_choice_share (a test)",
-      "date": "2026-10-30T17:21:21+01:00"
+      "sha": "473d3b9",
+      "subject": "docs: asm-025 Phase 9 close-out — the network table shipped",
+      "date": "2026-10-31T04:51:50+01:00"
     }
   ]
 }
