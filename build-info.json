@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "7fef22e",
-      "subject": "Merge override-ids: override files keyed by id (asm-033 Phase 3)",
-      "date": "2026-11-01T12:06:06+01:00"
+      "sha": "8c04ba7",
+      "subject": "Merge small-fixes-13: junction defaults as loaded, the demo's font",
+      "date": "2026-11-01T14:53:37+01:00"
     },
     {
-      "sha": "a2b7740",
-      "subject": "specs, rules: asm-033 Phase 3 shipped — override files keyed by id; record, notes, status",
-      "date": "2026-11-01T06:51:07+01:00"
+      "sha": "2e944ab",
+      "subject": "demo: self-host JetBrains Mono 400/700 with its OFL licence (small-fixes-13 B2)",
+      "date": "2026-11-01T13:10:49+01:00"
     },
     {
-      "sha": "6de6af9",
-      "subject": "docs: the scenario tour's override by id (asm-033 Phase 3)",
-      "date": "2026-11-01T06:44:43+01:00"
+      "sha": "964161d",
+      "subject": "web, server tests: an editor save writes junction geometry and gap_acceptance only as loaded or edited (small-fixes-13 B1)",
+      "date": "2026-11-01T13:07:57+01:00"
     }
   ]
 }
