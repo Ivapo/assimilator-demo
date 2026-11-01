@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "abd3683",
-      "subject": "Merge transit-p3: the schedule router (asm-054 Phase 3)",
-      "date": "2026-11-01T04:41:38+01:00"
+      "sha": "7fef22e",
+      "subject": "Merge override-ids: override files keyed by id (asm-033 Phase 3)",
+      "date": "2026-11-01T12:06:06+01:00"
     },
     {
-      "sha": "cd77efa",
-      "subject": "specs: asm-054 Phase 3 shipped — the Sioux Falls record, status lines, inventory",
-      "date": "2026-11-01T04:26:34+01:00"
+      "sha": "a2b7740",
+      "subject": "specs, rules: asm-033 Phase 3 shipped — override files keyed by id; record, notes, status",
+      "date": "2026-11-01T06:51:07+01:00"
     },
     {
-      "sha": "218daa0",
-      "subject": "rules, docs: asm-054 Phase 3 — the schedule router, bus trips routed and re-routed, mode choice with buses",
-      "date": "2026-11-01T04:19:34+01:00"
+      "sha": "6de6af9",
+      "subject": "docs: the scenario tour's override by id (asm-033 Phase 3)",
+      "date": "2026-11-01T06:44:43+01:00"
     }
   ]
 }
