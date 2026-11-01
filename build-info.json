@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "8c04ba7",
-      "subject": "Merge small-fixes-13: junction defaults as loaded, the demo's font",
-      "date": "2026-11-01T14:53:37+01:00"
+      "sha": "bf17054",
+      "subject": "Merge transit-p8: a bus's stop-link traversal left out of the car router's table (asm-054 Phase 8)",
+      "date": "2026-11-01T19:04:00+01:00"
     },
     {
-      "sha": "2e944ab",
-      "subject": "demo: self-host JetBrains Mono 400/700 with its OFL licence (small-fixes-13 B2)",
-      "date": "2026-11-01T13:10:49+01:00"
+      "sha": "ed37510",
+      "subject": "Merge transit-oq28: OQ-28's study (asm-054 Phase 7)",
+      "date": "2026-11-01T19:03:57+01:00"
     },
     {
-      "sha": "964161d",
-      "subject": "web, server tests: an editor save writes junction geometry and gap_acceptance only as loaded or edited (small-fixes-13 B1)",
-      "date": "2026-11-01T13:07:57+01:00"
+      "sha": "0744304",
+      "subject": "specs: asm-054 Phase 8 shipped — the record; the confirming test failed, OQ-28 reopened",
+      "date": "2026-11-01T18:53:20+01:00"
     }
   ]
 }
