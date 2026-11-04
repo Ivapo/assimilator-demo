@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "35ad7d5",
-      "subject": "Merge small-fixes-14: the MCP build stamp, a streamed run's delay, the fmt hook on merges",
-      "date": "2026-11-02T17:41:33+01:00"
+      "sha": "5ad2fc6",
+      "subject": "Merge transit-cap: a capacity edit per line and each route's links and stops, surface 0.22.0 (asm-054 Phase 10)",
+      "date": "2026-11-04T15:55:10+01:00"
     },
     {
-      "sha": "dc6944a",
-      "subject": "Merge transit-mcp: the MCP surface for transit, 0.21.0 (asm-054 Phase 5)",
-      "date": "2026-11-02T17:41:12+01:00"
+      "sha": "b47f223",
+      "subject": "specs: asm-054 Phase 10 record — the workspace suite and the relay as built",
+      "date": "2026-11-04T14:43:55+01:00"
     },
     {
-      "sha": "062cd30",
-      "subject": "specs: asm-054 Phase 5 shipped — the record, status, surface 0.21.0",
-      "date": "2026-11-02T16:48:20+01:00"
+      "sha": "b6cc73b",
+      "subject": "specs: asm-054 Phase 10 shipped — record phase10_mcp.md",
+      "date": "2026-11-04T14:06:20+01:00"
     }
   ]
 }
