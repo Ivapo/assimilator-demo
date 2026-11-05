@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "5ad2fc6",
-      "subject": "Merge transit-cap: a capacity edit per line and each route's links and stops, surface 0.22.0 (asm-054 Phase 10)",
-      "date": "2026-11-04T15:55:10+01:00"
+      "sha": "e73b60b",
+      "subject": "Merge gtfs: a city's GTFS as a schedule, assimilator import-gtfs (asm-055 Phase 1)",
+      "date": "2026-11-05T10:09:47+01:00"
     },
     {
-      "sha": "b47f223",
-      "subject": "specs: asm-054 Phase 10 record — the workspace suite and the relay as built",
-      "date": "2026-11-04T14:43:55+01:00"
+      "sha": "10c1258",
+      "subject": "specs: asm-055 Phase 1 shipped — the Norrköping record, status lines",
+      "date": "2026-11-05T01:35:42+01:00"
     },
     {
-      "sha": "b6cc73b",
-      "subject": "specs: asm-054 Phase 10 shipped — record phase10_mcp.md",
-      "date": "2026-11-04T14:06:20+01:00"
+      "sha": "54d7025",
+      "subject": "rules, docs: asm-055 Phase 1 — import-gtfs reconciled (§2.12)",
+      "date": "2026-11-05T00:58:14+01:00"
     }
   ]
 }
