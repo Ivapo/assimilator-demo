@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "d021f95",
-      "subject": "Merge gtfs-p3: an empty bus's time at a stop (asm-055 Phase 3)",
-      "date": "2026-11-07T07:58:11+01:00"
+      "sha": "b246832",
+      "subject": "Merge synth-d: asm-056 synthetic demand drafted and decided",
+      "date": "2026-11-08T00:01:32+01:00"
     },
     {
-      "sha": "a5e6584",
-      "subject": "specs: asm-055 Phase 3 shipped — the Norrköping record, the status lines, §2.3's timepoint note",
-      "date": "2026-11-07T02:52:52+01:00"
+      "sha": "3bd876a",
+      "subject": "Merge gtfs-p4: the import and a buses-only scenario for agents (asm-055 Phase 4)",
+      "date": "2026-11-08T00:01:26+01:00"
     },
     {
-      "sha": "c1e6f73",
-      "subject": "rules, docs: asm-055 Phase 3 — a vehicle type's stop fields, the machine's order, import-gtfs's hold default",
-      "date": "2026-11-07T02:10:49+01:00"
+      "sha": "ddeaeae",
+      "subject": "specs: asm-056 OQ-13 answered — Stage 1's give-way rule (E1) does not cure Norrköping's lock",
+      "date": "2026-11-07T22:39:03+01:00"
     }
   ]
 }
