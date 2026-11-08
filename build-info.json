@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "b246832",
-      "subject": "Merge synth-d: asm-056 synthetic demand drafted and decided",
-      "date": "2026-11-08T00:01:32+01:00"
+      "sha": "9a1d045",
+      "subject": "Merge synth-p1: car trips between zones, labelled synthetic (asm-056 Phase 1)",
+      "date": "2026-11-08T12:26:17+01:00"
     },
     {
-      "sha": "3bd876a",
-      "subject": "Merge gtfs-p4: the import and a buses-only scenario for agents (asm-055 Phase 4)",
-      "date": "2026-11-08T00:01:26+01:00"
+      "sha": "cbe3bf8",
+      "subject": "specs, rules, docs: asm-056 Phase 1 shipped — the two-city record, the reconciliation",
+      "date": "2026-11-08T03:29:28+01:00"
     },
     {
-      "sha": "ddeaeae",
-      "subject": "specs: asm-056 OQ-13 answered — Stage 1's give-way rule (E1) does not cure Norrköping's lock",
-      "date": "2026-11-07T22:39:03+01:00"
+      "sha": "96c6e1b",
+      "subject": "tests: asm-056 Phase 1 — the integration test and fixture",
+      "date": "2026-11-08T02:36:14+01:00"
     }
   ]
 }
