@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "9a1d045",
-      "subject": "Merge synth-p1: car trips between zones, labelled synthetic (asm-056 Phase 1)",
-      "date": "2026-11-08T12:26:17+01:00"
+      "sha": "4210a64",
+      "subject": "Merge small-fixes-17: parsed networks kept by the MCP server, schema_version in imported networks",
+      "date": "2026-11-08T15:42:25+01:00"
     },
     {
-      "sha": "cbe3bf8",
-      "subject": "specs, rules, docs: asm-056 Phase 1 shipped — the two-city record, the reconciliation",
-      "date": "2026-11-08T03:29:28+01:00"
+      "sha": "d3002af",
+      "subject": "small-fixes-17: records — OQ-44's note, rules, what-changed",
+      "date": "2026-11-08T15:20:23+01:00"
     },
     {
-      "sha": "96c6e1b",
-      "subject": "tests: asm-056 Phase 1 — the integration test and fixture",
-      "date": "2026-11-08T02:36:14+01:00"
+      "sha": "981ce81",
+      "subject": "small-fixes-17 B1: the MCP server keeps parsed networks by path and content hash",
+      "date": "2026-11-08T14:58:29+01:00"
     }
   ]
 }
