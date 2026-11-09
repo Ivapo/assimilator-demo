@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "4210a64",
-      "subject": "Merge small-fixes-17: parsed networks kept by the MCP server, schema_version in imported networks",
-      "date": "2026-11-08T15:42:25+01:00"
+      "sha": "3ab1c97",
+      "subject": "Merge osm7-d: asm-026 Phase 7 drafted and decided",
+      "date": "2026-11-09T15:47:42+01:00"
     },
     {
-      "sha": "d3002af",
-      "subject": "small-fixes-17: records — OQ-44's note, rules, what-changed",
-      "date": "2026-11-08T15:20:23+01:00"
+      "sha": "80af053",
+      "subject": "Merge hold-p12: a vehicle with no way back is held at its stop line (asm-016 Phase 12)",
+      "date": "2026-11-09T15:47:37+01:00"
     },
     {
-      "sha": "981ce81",
-      "subject": "small-fixes-17 B1: the MCP server keeps parsed networks by path and content hash",
-      "date": "2026-11-08T14:58:29+01:00"
+      "sha": "3b895a7",
+      "subject": "Merge iq-p2: the import quality report written and served (asm-057 Phase 2)",
+      "date": "2026-11-09T15:47:26+01:00"
     }
   ]
 }
