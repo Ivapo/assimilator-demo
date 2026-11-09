@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "3ab1c97",
-      "subject": "Merge osm7-d: asm-026 Phase 7 drafted and decided",
-      "date": "2026-11-09T15:47:42+01:00"
+      "sha": "6074463",
+      "subject": "Merge osm-p7: imported roads keep their names, classes and access (asm-026 Phase 7)",
+      "date": "2026-11-09T23:36:21+01:00"
     },
     {
-      "sha": "80af053",
-      "subject": "Merge hold-p12: a vehicle with no way back is held at its stop line (asm-016 Phase 12)",
-      "date": "2026-11-09T15:47:37+01:00"
+      "sha": "947d5bf",
+      "subject": "specs, rules, docs: asm-026 Phase 7 shipped — the record, the reconciliation",
+      "date": "2026-11-09T23:23:52+01:00"
     },
     {
-      "sha": "3b895a7",
-      "subject": "Merge iq-p2: the import quality report written and served (asm-057 Phase 2)",
-      "date": "2026-11-09T15:47:26+01:00"
+      "sha": "3c0943f",
+      "subject": "mcp: asm-026 Phase 7 — names served; surface 0.26.0",
+      "date": "2026-11-09T21:05:28+01:00"
     }
   ]
 }
