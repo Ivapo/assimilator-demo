@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "6074463",
-      "subject": "Merge osm-p7: imported roads keep their names, classes and access (asm-026 Phase 7)",
-      "date": "2026-11-09T23:36:21+01:00"
+      "sha": "d01c21b",
+      "subject": "Merge mcp-asks3: the harness's asks after 0.26.0, four phases drafted and decided",
+      "date": "2026-11-10T01:31:20+01:00"
     },
     {
-      "sha": "947d5bf",
-      "subject": "specs, rules, docs: asm-026 Phase 7 shipped — the record, the reconciliation",
-      "date": "2026-11-09T23:23:52+01:00"
+      "sha": "9f16ed6",
+      "subject": "Merge small-fixes-18: each direction's own lane count on import; the Overture release lookup waited for",
+      "date": "2026-11-10T01:31:15+01:00"
     },
     {
-      "sha": "3c0943f",
-      "subject": "mcp: asm-026 Phase 7 — names served; surface 0.26.0",
-      "date": "2026-11-09T21:05:28+01:00"
+      "sha": "a158985",
+      "subject": "specs: the user's decisions on the four phases' open questions (each (a)); statuses cleared to build",
+      "date": "2026-11-10T01:28:18+01:00"
     }
   ]
 }
