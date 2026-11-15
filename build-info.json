@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "1d6748e",
-      "subject": "Merge dash-p1: the Dashboard in two columns, its project list answering at once (asm-058 Phase 1)",
-      "date": "2026-11-15T01:49:53+01:00"
+      "sha": "3617776",
+      "subject": "Merge small-fixes-20: Esc in the import dialog, a light editor like the Dashboard, Examples in a fresh checkout, Step when paused",
+      "date": "2026-11-15T12:02:47+01:00"
     },
     {
-      "sha": "85b37f3",
-      "subject": "specs, rules, docs: asm-058 Phase 1 shipped — the record, the reconciliation",
-      "date": "2026-11-15T01:32:01+01:00"
+      "sha": "0d9fbb9",
+      "subject": "Merge osm-p9: imports close the roads the map closes to cars (asm-026 Phase 9)",
+      "date": "2026-11-15T12:02:38+01:00"
     },
     {
-      "sha": "1037e5d",
-      "subject": "docs: asm-058 Phase 1 — the manual's Dashboard and its five screenshots",
-      "date": "2026-11-15T01:27:58+01:00"
+      "sha": "a8617e6",
+      "subject": "specs: asm-026 Phase 9 — the record's summary and predictions table note G2b's pass by hand",
+      "date": "2026-11-15T11:50:14+01:00"
     }
   ]
 }
