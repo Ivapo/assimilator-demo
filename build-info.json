@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "7949e01",
-      "subject": "specs: asm-001 Phase 14 record, a dated correction of two line counts",
-      "date": "2026-11-13T11:13:04+01:00"
+      "sha": "1d6748e",
+      "subject": "Merge dash-p1: the Dashboard in two columns, its project list answering at once (asm-058 Phase 1)",
+      "date": "2026-11-15T01:49:53+01:00"
     },
     {
-      "sha": "d940794",
-      "subject": "Merge asm001-p14: nulls for absent parts and a network's credit (asm-001 Phase 14; surface 0.29.0)",
-      "date": "2026-11-13T11:12:56+01:00"
+      "sha": "85b37f3",
+      "subject": "specs, rules, docs: asm-058 Phase 1 shipped — the record, the reconciliation",
+      "date": "2026-11-15T01:32:01+01:00"
     },
     {
-      "sha": "109d4a5",
-      "subject": "Merge small-fixes-19: Esc, shell completion, the changelog out of the manual, a shortcut list",
-      "date": "2026-11-13T11:12:46+01:00"
+      "sha": "1037e5d",
+      "subject": "docs: asm-058 Phase 1 — the manual's Dashboard and its five screenshots",
+      "date": "2026-11-15T01:27:58+01:00"
     }
   ]
 }
