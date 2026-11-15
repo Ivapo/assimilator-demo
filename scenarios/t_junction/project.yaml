@@ -1,6 +1,7 @@
 schema_version: 1
 metadata:
   name: "T-Junction Priority"
+  description: "A T-junction without signals: 200 cars an hour from the side road give way to 600 on the main road."
 
 vehicle_classes:
   - id: car

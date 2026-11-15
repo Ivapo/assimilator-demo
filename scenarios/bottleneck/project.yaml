@@ -1,6 +1,7 @@
 schema_version: 1
 metadata:
   name: "Bottleneck"
+  description: "A 5 km motorway that narrows from three lanes to two: 2,000 cars an hour, counted by three detectors."
 
 vehicle_classes:
   - id: car

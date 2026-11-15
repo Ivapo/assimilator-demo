@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "61fd5cd",
-      "subject": "Merge small-fixes-21: cancel an import, a patient road count, keys and Tab in the editor, Resume after Jump to",
-      "date": "2026-11-15T17:22:16+01:00"
+      "sha": "bbcd564",
+      "subject": "Merge dash35-p: asm-058 Phases 3 and 5, the examples' lines and the import quality column",
+      "date": "2026-11-15T23:30:03+01:00"
     },
     {
-      "sha": "7f92627",
-      "subject": "specs, rules, docs: small-fixes-21 amendment — the record",
-      "date": "2026-11-15T16:34:07+01:00"
+      "sha": "9fceffb",
+      "subject": "specs: asm-058 Phases 3 and 5 shipped — G3-H and G5-H pass in the user's words",
+      "date": "2026-11-15T23:17:23+01:00"
     },
     {
-      "sha": "b5356f3",
-      "subject": "web: small-fixes-21 amendment — Backspace never goes back a page; E without a Mapbox key",
-      "date": "2026-11-15T16:33:41+01:00"
+      "sha": "0aabea1",
+      "subject": "specs: asm-058 Phase 5 — the record's K1 bytes check, stated exactly",
+      "date": "2026-11-15T19:59:00+01:00"
     }
   ]
 }

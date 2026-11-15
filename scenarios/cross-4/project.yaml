@@ -1,6 +1,7 @@
 schema_version: 1
 metadata:
   name: "4-Way Signalized Cross"
+  description: "A signalised crossroads (two phases, 60 s cycle) with cars turning every way from all four arms: 2,200 an hour."
 
 vehicle_classes:
   - id: car

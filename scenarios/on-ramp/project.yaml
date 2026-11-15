@@ -1,7 +1,7 @@
 schema_version: 1
 metadata:
   name: on-ramp
-  description: null
+  description: "A two-lane motorway with an on-ramp: 500 cars an hour merge into 1,500 along a 200 m added lane."
   author: null
   map_origin: null
   coordinate_system: metric
