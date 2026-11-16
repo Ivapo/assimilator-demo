@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "bbcd564",
-      "subject": "Merge dash35-p: asm-058 Phases 3 and 5, the examples' lines and the import quality column",
-      "date": "2026-11-15T23:30:03+01:00"
+      "sha": "3d75957",
+      "subject": "Merge small-fixes-22: Pause stops a Jump to, the map's ring only after Tab, every button named",
+      "date": "2026-11-16T04:12:55+01:00"
     },
     {
-      "sha": "9fceffb",
-      "subject": "specs: asm-058 Phases 3 and 5 shipped — G3-H and G5-H pass in the user's words",
-      "date": "2026-11-15T23:17:23+01:00"
+      "sha": "a4cde56",
+      "subject": "specs, rules, docs: small-fixes-22 — the record",
+      "date": "2026-11-16T01:00:43+01:00"
     },
     {
-      "sha": "0aabea1",
-      "subject": "specs: asm-058 Phase 5 — the record's K1 bytes check, stated exactly",
-      "date": "2026-11-15T19:59:00+01:00"
+      "sha": "a9ce37b",
+      "subject": "web: small-fixes-22 B1 — every editor and Dashboard button has a name",
+      "date": "2026-11-16T00:59:26+01:00"
     }
   ]
 }
