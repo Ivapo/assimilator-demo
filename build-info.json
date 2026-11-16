@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "3d75957",
-      "subject": "Merge small-fixes-22: Pause stops a Jump to, the map's ring only after Tab, every button named",
-      "date": "2026-11-16T04:12:55+01:00"
+      "sha": "bb61180",
+      "subject": "Merge dash4-p: a project that won't run says so, and the one-word fix (asm-058 Phase 4)",
+      "date": "2026-11-16T13:44:39+01:00"
     },
     {
-      "sha": "a4cde56",
-      "subject": "specs, rules, docs: small-fixes-22 — the record",
-      "date": "2026-11-16T01:00:43+01:00"
+      "sha": "656dc54",
+      "subject": "specs: asm-058 Phase 4 shipped 2026-11-16 — G4-H passed in the user's words",
+      "date": "2026-11-16T12:43:04+01:00"
     },
     {
-      "sha": "a9ce37b",
-      "subject": "web: small-fixes-22 B1 — every editor and Dashboard button has a name",
-      "date": "2026-11-16T00:59:26+01:00"
+      "sha": "c80c4f9",
+      "subject": "specs, rules: asm-058 Phase 4 amended (OQ-28) from the user's hand check; G4-H pending",
+      "date": "2026-11-16T12:25:36+01:00"
     }
   ]
 }
