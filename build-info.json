@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "bb61180",
-      "subject": "Merge dash4-p: a project that won't run says so, and the one-word fix (asm-058 Phase 4)",
-      "date": "2026-11-16T13:44:39+01:00"
+      "sha": "2eb3262",
+      "subject": "Merge small-fixes-24: every field named by its label, toggles say on or off, the scenario menu by Tab",
+      "date": "2026-11-17T01:50:27+01:00"
     },
     {
-      "sha": "656dc54",
-      "subject": "specs: asm-058 Phase 4 shipped 2026-11-16 — G4-H passed in the user's words",
-      "date": "2026-11-16T12:43:04+01:00"
+      "sha": "ecef646",
+      "subject": "Merge small-fixes-23: the import quality report says what the network holds",
+      "date": "2026-11-17T01:50:17+01:00"
     },
     {
-      "sha": "c80c4f9",
-      "subject": "specs, rules: asm-058 Phase 4 amended (OQ-28) from the user's hand check; G4-H pending",
-      "date": "2026-11-16T12:25:36+01:00"
+      "sha": "4acf813",
+      "subject": "specs, rules, docs: small-fixes-24 — the record",
+      "date": "2026-11-17T00:34:56+01:00"
     }
   ]
 }
