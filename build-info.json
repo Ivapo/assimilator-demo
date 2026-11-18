@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "3e8251e",
-      "subject": "Merge small-fixes-26: names that say where they belong, groups, radio buttons and tabs",
-      "date": "2026-11-17T13:50:29+01:00"
+      "sha": "fde7563",
+      "subject": "Merge editor-n1-p: the tool rail, the table as the selection's list, a details card and the desktop menu bar (asm-025 Phase 10)",
+      "date": "2026-11-18T09:22:02+01:00"
     },
     {
-      "sha": "190a956",
-      "subject": "Merge small-fixes-25: an agent names a project by its folder, letter for letter",
-      "date": "2026-11-17T13:50:19+01:00"
+      "sha": "e0bbb89",
+      "subject": "specs: asm-025 Phase 10 shipped 2026-11-18 — gate 12 passed on its third look",
+      "date": "2026-11-18T09:19:33+01:00"
     },
     {
-      "sha": "f1b3364",
-      "subject": "specs, rules, docs: small-fixes-26 — the record",
-      "date": "2026-11-17T12:02:04+01:00"
+      "sha": "4e15f58",
+      "subject": "specs, rules, docs: asm-025 Phase 10 second amendment — the record (the next look awaited)",
+      "date": "2026-11-18T01:50:27+01:00"
     }
   ]
 }
