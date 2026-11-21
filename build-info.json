@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "ea733b0",
-      "subject": "Merge synth-p2-p: a synthetic population imported from SySMo (asm-056 Phase 2)",
-      "date": "2026-11-19T03:35:00+01:00"
+      "sha": "6a021d9",
+      "subject": "Merge synth-p6-p: a generated population for any city (asm-056 Phase 6)",
+      "date": "2026-11-21T13:23:35+01:00"
     },
     {
-      "sha": "1b00c37",
-      "subject": "specs, rules, docs: asm-056 Phase 2 shipped",
-      "date": "2026-11-19T00:33:09+01:00"
+      "sha": "189e806",
+      "subject": "Merge small-fixes-27: seven small fixes, round 27",
+      "date": "2026-11-21T13:23:25+01:00"
     },
     {
-      "sha": "935a20a",
-      "subject": "mcp, config: read a run's schedule as the scenario ran it",
-      "date": "2026-11-19T00:03:18+01:00"
+      "sha": "2ab1242",
+      "subject": "specs, rules, docs: asm-056 Phase 6 shipped",
+      "date": "2026-11-19T14:23:36+01:00"
     }
   ]
 }
