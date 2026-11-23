@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "6a021d9",
-      "subject": "Merge synth-p6-p: a generated population for any city (asm-056 Phase 6)",
-      "date": "2026-11-21T13:23:35+01:00"
+      "sha": "69d94b9",
+      "subject": "Merge synth-p7: the label on the screens (asm-056 Phase 7)",
+      "date": "2026-11-23T14:26:20+01:00"
     },
     {
-      "sha": "189e806",
-      "subject": "Merge small-fixes-27: seven small fixes, round 27",
-      "date": "2026-11-21T13:23:25+01:00"
+      "sha": "613550b",
+      "subject": "specs, rules, docs: asm-056 Phase 7 — the record",
+      "date": "2026-11-23T13:35:07+01:00"
     },
     {
-      "sha": "2ab1242",
-      "subject": "specs, rules, docs: asm-056 Phase 6 shipped",
-      "date": "2026-11-19T14:23:36+01:00"
+      "sha": "deb5101",
+      "subject": "feat(web): the label's caption on the results map and the notice on the demand panel (asm-056 Phase 7)",
+      "date": "2026-11-23T13:32:04+01:00"
     }
   ]
 }
