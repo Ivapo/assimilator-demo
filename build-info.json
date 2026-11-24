@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "69d94b9",
-      "subject": "Merge synth-p7: the label on the screens (asm-056 Phase 7)",
-      "date": "2026-11-23T14:26:20+01:00"
+      "sha": "91b16bb",
+      "subject": "Merge small-fixes-28b: every repeated field says what it belongs to (small-fixes round 28, build B)",
+      "date": "2026-11-24T12:46:47+01:00"
     },
     {
-      "sha": "613550b",
-      "subject": "specs, rules, docs: asm-056 Phase 7 — the record",
-      "date": "2026-11-23T13:35:07+01:00"
+      "sha": "aaeacf3",
+      "subject": "Merge small-fixes-28a: an agent's write stops with its client, and other engine fixes (small-fixes round 28, build A)",
+      "date": "2026-11-24T12:46:38+01:00"
     },
     {
-      "sha": "deb5101",
-      "subject": "feat(web): the label's caption on the results map and the notice on the demand panel (asm-056 Phase 7)",
-      "date": "2026-11-23T13:32:04+01:00"
+      "sha": "9592b1d",
+      "subject": "specs, rules, docs: small-fixes-28 build A — the record",
+      "date": "2026-11-24T03:03:42+01:00"
     }
   ]
 }
