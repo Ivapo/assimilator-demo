@@ -1,19 +1,19 @@
 {
   "commits": [
     {
-      "sha": "91b16bb",
-      "subject": "Merge small-fixes-28b: every repeated field says what it belongs to (small-fixes round 28, build B)",
-      "date": "2026-11-24T12:46:47+01:00"
+      "sha": "6af7f12",
+      "subject": "Merge small-fixes-29: the public demo's first page for its readers, and the editor's source maps out of the bundle (small-fixes round 29)",
+      "date": "2026-11-27T03:15:34+01:00"
     },
     {
-      "sha": "aaeacf3",
-      "subject": "Merge small-fixes-28a: an agent's write stops with its client, and other engine fixes (small-fixes round 28, build A)",
-      "date": "2026-11-24T12:46:38+01:00"
+      "sha": "c8e30ef",
+      "subject": "specs, rules, docs: small-fixes-29 — the record",
+      "date": "2026-11-27T02:28:36+01:00"
     },
     {
-      "sha": "9592b1d",
-      "subject": "specs, rules, docs: small-fixes-28 build A — the record",
-      "date": "2026-11-24T03:03:42+01:00"
+      "sha": "779190a",
+      "subject": "build(web): source maps out of the bundle (small-fixes-29 (cxxi))",
+      "date": "2026-11-27T02:28:01+01:00"
     }
   ]
 }
